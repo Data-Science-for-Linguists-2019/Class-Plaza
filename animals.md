@@ -2,6 +2,11 @@
 
 Let's use this file to test-run simultaneous editing of a text file and ensuing merge conflicts. 
 
-- Pandas are cute.
+- Pandas are dumb.
+- Pangolins are scaly.
 - Tigers are fierce.
 - Owls are superb
+- Ants are antsy.
+- Penguins are fluffy.
+- Obdurodonta are extinct.
+
