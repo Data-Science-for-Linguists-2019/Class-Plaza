@@ -6,8 +6,12 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Pangolins are scaly.
 - Tigers are fierce.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Iguanas are big
 =======
+=======
+- Koalas are qualified.
+>>>>>>> 70e22c41795c98c7751c4d78cd7c6cfb2094d1a9
 - Ants are antsy.
 - Penguins are fluffy.
 - Red pandas are playful.
