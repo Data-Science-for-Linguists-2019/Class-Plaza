@@ -1,2 +1,3 @@
-# Class-Plaza
-A shared space for our class. Everyone has push access. 
+# Class Plaza
+
+A public, **collaborative repo** where everyone has push access. No need to fork! Pull and push directly.
