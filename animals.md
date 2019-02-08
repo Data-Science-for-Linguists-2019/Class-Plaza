@@ -15,3 +15,4 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Red pandas are playful.
 - Obdurodonta are extinct.
 - Fish are food.
+- Dogs are friendly.
