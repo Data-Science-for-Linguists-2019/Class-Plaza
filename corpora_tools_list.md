@@ -10,16 +10,14 @@
 | --------- | :-----------: | ------- |
 | [The British National Corpus](http://www.natcorp.ox.ac.uk/) | online or purchase | 100 million word collection of samples of written and spoken language from multiple sources, designed to represent a wide cross-section of British English from the late 20th century |
 | [BNC Baby](http://www.natcorp.ox.ac.uk/corpus/babyinfo.html) | purchase | "Baby" version of the BNC. Contains BNC sampler and Brown corpus. |
-| [The Buckeye Corpus](https://buckeyecorpus.osu.edu/) | free online for noncommercial use | Audio and text files, with phonetic labels, of interviews with 40 
-people in Columbus, OH. Formatted for speech analysis software. |
+| [The Buckeye Corpus](https://buckeyecorpus.osu.edu/) | free online for noncommercial use | Audio and text files, with phonetic labels, of interviews with 40 people in Columbus, OH. Formatted for speech analysis software. |
 
 ## Additional corpora 
 
 | Name/link | Access | Summary |
 | --------- | :-----------: | ------- |
 |[Tagged and Cleaned Wikipedia and its Ngram](http://nlp.cs.nyu.edu/wikipedia-data/) | freely downloadable | A static version (html documents) of the English Wikipedia, downloaded in 2008. Tagged and cleaned, includes n-grams. |
-|[Corpus of English Dialogues: 1560-1760](http://ota.ox.ac.uk/desc/2507) | Free to download after registration | 177 textfiles containing constructed dialogue or 
-transcribed authentic speech. |
+|[Corpus of English Dialogues: 1560-1760](http://ota.ox.ac.uk/desc/2507) | Free to download after registration | 177 textfiles containing constructed dialogue or transcribed authentic speech. |
 
 ## Tools and software
 
