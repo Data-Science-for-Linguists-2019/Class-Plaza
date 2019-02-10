@@ -33,3 +33,4 @@
 | [CLAWS tagger](http://ucrel.lancs.ac.uk/claws/) | purchase | A part-of-speech tagger for English text. |
 | [Xaira Searching Software](http://xaira.sourceforge.net/) | free | Software for indexing and analyzing large XML resources like corpora |
 | [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/) | free | Tool for the creation of complex annotations on video and audio resources |
+| [TYPECRAFT]( http://typecraft.org ) | free | multilingual Interlinear Glossed Text (IGT) Bank. |
