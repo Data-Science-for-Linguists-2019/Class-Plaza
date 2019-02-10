@@ -13,6 +13,7 @@
 | [The Buckeye Corpus](https://buckeyecorpus.osu.edu/) | free online for noncommercial use | Audio and text files, with phonetic labels, of interviews with 40 people in Columbus, OH. Formatted for speech analysis software. |
 | [TIMIT - The Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/LDC93S1)| purchase | Contains recordings of 630 american speakers of 8 major dialects reading sentences. Includes time-aligned orthographic, phonetic and word transcriptions. 16 bit, 16kHz speech waveform files.|
 | [ICE - International Corpus of English](http://ice-corpora.net/ice/)| free for non-commerical, academic research | 26 corpora of national/regional varieties of English. Each ICE corpus contains 500 texts of ~2,000 words each, for a total of ~1 million words. Corpus data is spoken and written English produced after 1989.|
+| [The Uppsala Learner English Corpus](http://www.engelska.uu.se/research/english-language/electronic-resources/use/) | The corpus can be used for research and educational purposes. | The corpus consists of 1,489 essays written by 440 Swedish university students of English at three different levels, the majority in their first term of full-time studies. The total number of words is 1,221,265, which means an average essay length of 820 words. A typical first-term essay is somewhat shorter, averaging 777 words. |
 
 
 ## Additional corpora
