@@ -24,6 +24,7 @@
 |[Corpus of English Dialogues: 1560-1760](http://ota.ox.ac.uk/desc/2507) | Free to download after registration | 177 textfiles containing constructed dialogue or transcribed authentic speech. |
 |[Open American National Corpus](http://www.anc.org/data/oanc/contents/) | free | 15 million words divided amongst written and spoken sources. Sample sections include Switchboard, Slate Magazine, and ICIC corpus|
 |[National Center for Sign Language and Gesture Resources Corpus](http://secrets.rutgers.edu/dai/queryPages/querySelection.php) | free to browse online, can download annotations | Linguistically annotated ASL data, with multiple synchronized video files showing views from different angles and a close-up of the face, as well as associated linguistic annotations available as XML. Contains 1,866 distinct canonical signs and 11,854 sign tokens.|
+|[The Bergen Corpus of London Teenage Language (COLT)](http://clu.uni.no/icame/colt/) | free | collected in 1993 and consists of the spoken language of 13 to 17-year-old teenagers from different boroughs of London. The complete corpus, half a million words, has been orthographically transcribed and word-class tagged, and is a constituent of the British National Corpus.|
 ## Tools and software
 
 | Name/link | Access | Summary |
