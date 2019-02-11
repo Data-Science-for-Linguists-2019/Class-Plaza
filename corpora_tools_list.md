@@ -16,6 +16,7 @@
 | [The Uppsala Learner English Corpus](http://www.engelska.uu.se/research/english-language/electronic-resources/use/) | free for research and educational purposes. | The corpus consists of 1,489 essays written by 440 Swedish university students of English at three different levels, the majority in their first term of full-time studies. The total number of words is 1,221,265, which means an average essay length of 820 words. A typical first-term essay is somewhat shorter, averaging 777 words. |
 | [Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/) | Searchable for free online (limited number of queries); full-text data available for purchase | Contains more than 400 million words of text from the 1810s-2009. The corpus is balanced by genre decade by decade, such as fiction, magazine, and news. |
 | [TalkBank](https://talkbank.org) | freely available online | The corpus is a collection of corpora and transcripts. It offers adult and child language corpora in various media designed for many different types of studies (aphasia, dementia, second language acquisition, conversation analysis, and sociolinguistics.) |
+| [Brown corpus](https://archive.org/download/BrownCorpus) | free | Balanced million-word corpus developed in late 1960s. Available at the link to the left and multiple other locations listed in Gries &amp; Newman. |
 
 
 ## Additional corpora
