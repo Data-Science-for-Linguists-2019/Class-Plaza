@@ -46,3 +46,4 @@
 | [FreeLing](http://nlp.lsi.upc.edu/freeling/) | free | FreeLing is a C++ library providing language analysis functionalities for a variety of languages (English, Spanish, Portuguese, Italian, French, German, Russian, Catalan, Galician, Croatian, Slovene, among others). |
 | [jEdit](http://jedit.org) | free | A Java-based text editor that has useful features for fomatting texts for corpus-based research. For example, it accepts many different language encodings, allows for search and replace over multiple files, and features search and replace operations using regular expressions. |
 | [Voyant tools](https://voyant-tools.org) | free | Web-based text reading and analysis environment, with rich array of data visualizations. |
+| [ICECUP](https://www.ucl.ac.uk/english-usage/resources/icecup/) | free | ICECUP 3.1 (the ICE Corpus Utility Program) is a state-of-the-art corpus exploration program designed for parsed corpora such as ICE-GB and DCPSE.
