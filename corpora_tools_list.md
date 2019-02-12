@@ -17,6 +17,7 @@
 | [Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/) | Searchable for free online (limited number of queries); full-text data available for purchase | Contains more than 400 million words of text from the 1810s-2009. The corpus is balanced by genre decade by decade, such as fiction, magazine, and news. |
 | [TalkBank](https://talkbank.org) | freely available online | The corpus is a collection of corpora and transcripts. It offers adult and child language corpora in various media designed for many different types of studies (aphasia, dementia, second language acquisition, conversation analysis, and sociolinguistics.) |
 | [Brown corpus](https://archive.org/download/BrownCorpus) | free | Balanced million-word corpus developed in late 1960s. Available at the link to the left and multiple other locations listed in Gries &amp; Newman. |
+| [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) | free | The corpus contains more than 560 million words of text (20 million words each year 1990-2017) and it is equally divided among spoken, fiction, popular magazines, newspapers, and academic texts. |
 
 
 ## Additional corpora
