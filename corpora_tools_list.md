@@ -18,7 +18,10 @@
 | [TalkBank](https://talkbank.org) | freely available online | The corpus is a collection of corpora and transcripts. It offers adult and child language corpora in various media designed for many different types of studies (aphasia, dementia, second language acquisition, conversation analysis, and sociolinguistics.) |
 | [Brown corpus](https://archive.org/download/BrownCorpus) | free | Balanced million-word corpus developed in late 1960s. Available at the link to the left and multiple other locations listed in Gries &amp; Newman. |
 | [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) | free | The corpus contains more than 560 million words of text (20 million words each year 1990-2017) and it is equally divided among spoken, fiction, popular magazines, newspapers, and academic texts. |
-| [International Computer Archive of Modern and Medieval English Collection] (icame.uib.no/cd) | purchase by CD-ROM | Created by an organization of linguists and information scientists who aim to distribute English language material for machine learning, along with compiling an archive of English text corpora for research institutions. |
+| [International Computer Archive of Modern and Medieval English Collection](icame.uib.no/cd) | purchase by CD-ROM | Created by an organization of linguists and information scientists who aim to distribute English language material for machine learning, along with compiling an archive of English text corpora for research institutions. |
+| [Southern Oral History Program | https://dc.lib.unc.edu/cdm/landingpage/collection/sohp | free | a collection of oral history interviews from the south, including several hundred 
+(maybe thousand, it's unclear the total number) of audio files, transcripts of some of the interviews as well as the occupation, ethnicity, date of birth, and gender of some of the 
+interviewees. | 
 
 ## Additional corpora
 
@@ -33,8 +36,10 @@
 | [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus) | freely downloadable online | 249,000 words, includes transcriptions, audio, and timestamps. This corpus contains recordings of naturally occuring spoken interaction from all over the United States, from different origins, ages, occupations, genders, and ethnic/social backgrounds. Includes predominantly face-to-face interaction, but also contains various other ways of interaction. |
 | [Russian National Corpus](http://www.ruscorpora.ru) | free query access on line; subset available for download with restrictions | Corpus of the modern Russian language incorporating over 300 million words. Subcorpora include  Deeply Annotated corpus, Parallel corpora (English, German, Ukrainian, Belorussian, and multilingual), Dialectal corpus, Poetry corpus, Educational corpus, Corpus of spoken Russian. |
 | [Sinica Treebank Corpus Sample](http://rocling.iis.sinica.edu.tw/CKIP/engversion/treebank.htm) | purchase | Sinica Treebank 3.0 contains 6 files, 61,087 syntactic tree structures, and 361,834 words. The tree structures were extracted from the Sinica Corpus, and every structure is segmented and parsed. Each segmented word of a tree structure is tagged with its part-of-speech and argument. Sinica Treebank 3.0 is provided free on the website for syntactic and semantic research use. 1,000 syntactic tree structures are available. |
-| [Tehran-English Parallel Corpus] (http://opus.nlpl.eu/TEP.php) | free | The corpus consists of approximately 1.22 million sentence fragments of English subtitles and their Persian translations. It states the corpus is "cleaned", but the file itself does have some interesting formatting that still needs to be processed. |
-
+| [Tehran-English Parallel Corpus](http://opus.nlpl.eu/TEP.php) | free | The corpus consists of approximately 1.22 million sentence fragments of English subtitles and their Persian translations. It states the corpus is "cleaned", but the file itself does have some interesting formatting that still needs to be processed. |
+| [GICR: General Internet-Corpus of Russian](http://www.webcorpora.ru/) | not available for download; search requires an account, but it's unclear how to make one | 19.8 billion 
+tokens/7 million word forms collected from various Russian language websites |
+| [Leeds University Russian Internet Corpus](http://corpus.leeds.ac.uk/ruscorpora.html) | free to search | 160 million word internet corpus of Russian websites |
 ## Tools and software
 
 | Name/link | Access | Summary |
@@ -48,4 +53,6 @@
 | [jEdit](http://jedit.org) | free | A Java-based text editor that has useful features for fomatting texts for corpus-based research. For example, it accepts many different language encodings, allows for search and replace over multiple files, and features search and replace operations using regular expressions. |
 | [Voyant tools](https://voyant-tools.org) | free | Web-based text reading and analysis environment, with rich array of data visualizations. |
 | [ICECUP](https://www.ucl.ac.uk/english-usage/resources/icecup/) | free | ICECUP 3.1 (the ICE Corpus Utility Program) is a state-of-the-art corpus exploration program designed for parsed corpora such as ICE-GB and DCPSE.
-| [ParsPer] (http://cl.lingfil.uu.se/~mojgan/parsper-mate.html) | free | This parser POS-tags Persian sentences with up to 87% accuracy, It was trained on the Uppsala Persian Dependency Treebank. |
+| [ParsPer](http://cl.lingfil.uu.se/~mojgan/parsper-mate.html) | free | This parser POS-tags Persian sentences with up to 87% accuracy, It was trained on the Uppsala Persian Dependency Treebank. |
+| [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml) | free | This is a statistical parser of English and a few other language developed by Stanford which uses 
+java and is also able to be run from the command line. |
