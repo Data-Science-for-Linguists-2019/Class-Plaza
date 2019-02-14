@@ -1,4 +1,4 @@
- # To-do 7
+# To-do 7
 ## Questions for [Dr. Lauren Collister](https://openaccess.pitt.edu/node/33)
 
 See this page for instructions:
@@ -25,3 +25,4 @@ have any general guidelines about what constitutes a "substantial"
 amount? (John)
 - If I'm using a corpus of student essays and it contains possibly identifying information of some users (e.g. name, school, etc.), is it my duty to anonymize or remove that information? Or should I assume that the corpus authors obtained the users' permission to publish that information? (Elena)
 - We can easily access a wide variety of linguistic data or corpus from the Internet. How can we know which data is legality and legitimacy, Which data should be retained, shared, and/or preserved? Are there any restrictions on data sharing required? (Ting-Wei)
+- If a copyright claim expires, but then the copyright law is changed to extend the duration of copyright claims, is the expired claim automatically renewed? Similarly, if the duration of all copyright claims is shortened, thus causing some to expire, do the owners of the claim get a grace period to renew? Or do the protections expire immediately when the law changes? (Matt)
