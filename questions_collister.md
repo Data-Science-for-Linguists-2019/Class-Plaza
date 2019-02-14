@@ -24,3 +24,4 @@ the subject at hand. Who gets to determine these definitions? And do you
 have any general guidelines about what constitutes a "substantial"
 amount? (John)
 - If I'm using a corpus of student essays and it contains possibly identifying information of some users (e.g. name, school, etc.), is it my duty to anonymize or remove that information? Or should I assume that the corpus authors obtained the users' permission to publish that information? (Elena)
+- We can easily access a wide variety of linguistic data or corpus from the Internet. How can we know which data is legality and legitimacy, Which data should be retained, shared, and/or preserved? Are there any restrictions on data sharing required? (Ting-Wei)
