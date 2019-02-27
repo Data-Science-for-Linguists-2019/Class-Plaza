@@ -52,3 +52,15 @@ analysis.
 ##Goldie
 -Project 1:
 -Project 2:
+
+
+## Ting-Wei
+- Project 1: [Document_Clustering](https://github.com/Data-Science-for-Linguists/Document_Clustering)
+	- Strength:
+	- Improvement:
+	- Thing I learned:
+
+- Project 2: [Native_and_Non-native_English](https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English)
+	- Strength:
+	- Improvement:
+	- Thing I learned:
