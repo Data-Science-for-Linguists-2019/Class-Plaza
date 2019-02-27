@@ -22,3 +22,22 @@ code
 	- Improvement: Incorporating a way to read images (lots of memes 
 out there), is limited in what terms it uses
 	- Thing I learned: More methods of handling Tweepy and DFs!
+
+## Cassie the Metaphysical Student
+- Project 1: [Dogs vs Cats on 
+Twitter](https://github.com/Data-Science-for-Linguists/Dog_vs_Cat_Neologisms_on_Twitter) 
+by Margaret Jones
+	- Strength: The LIVE_data_collection jupyter notebook file is a 
+great way for people looking at her repo to get a good, hands-on way to 
+understand her project by letting them try out code themselves.
+	- Improvement: Counting retweets and favorites seems more like a 
+general statistical analysis than a linguistic analysis. Is there a way 
+to focus more on the neologism trends? Also, since data was collected 
+over time, and trends varied based on when data was collected, it would 
+be interesting to see a time plot of retweet and favorite trends, 
+instead of just individual pie charts and bar graphs.
+	- Thing I learned: Twitter can be really restrictive on scraping 
+data from tweets and publishing data! What tweets Twitter gives you 
+access to is an important consideration when doing any kind of twitter 
+analysis.
+
