@@ -43,6 +43,9 @@ analysis.
 
 ## Katie
 - Project 1: [Dog vs. Cat Neologisms on Twitter](https://github.com/Data-Science-for-Linguists/Dog_vs_Cat_Neologisms_on_Twitter)
+	- **What was done well?** This is such a fun idea! I bet the terms are even more popular now than when this project was done, it'd be interesting to take another look. Also, a lot of comments! This is helpful when reading through the code.
+	- **What could be improved?** I think it's hard to compute things with tweepy since it is so limited. From my use of Twitter, I know favorites are more popular than retweets, but from this project, it was concluded there were more retweets. This intuitively doesn't make sense to me, so I think there is something more going on here.
+	- **What did I learn?** There's a lot of numerical analysis here! This can be helpful if I need a refresher on creating graphs and other sorts of numerical data.
 
 - Project 2:
 
