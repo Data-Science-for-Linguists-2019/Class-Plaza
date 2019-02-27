@@ -41,6 +41,11 @@ data from tweets and publishing data! What tweets Twitter gives you
 access to is an important consideration when doing any kind of twitter
 analysis.
 
+## Katie
+- Project 1: [Dog vs. Cat Neologisms on Twitter](https://github.com/Data-Science-for-Linguists/Dog_vs_Cat_Neologisms_on_Twitter)
+
+- Project 2:
+
 ##Goldie
 -Project 1:
 -Project 2:
