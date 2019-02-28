@@ -53,8 +53,14 @@ analysis.
 	- **What did I learn?** Australian talk shows are predominantly male, or at least the ones from this data sample. I also learned what back channels are, and thought it was really interesting how men produce more back channels when listening to men talk, and women produce more back channels when listening to women talk.
 
 ##Goldie
--Project 1:
--Project 2:
+-Project 1: [NYT Sentiment Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
+-Strength: very well organized, nice visualizations
+-Improvement: They said that only half was done, so maybe they could come back to this and finish it.
+-Thing I learned: I learned how to process XML files.
+-Project 2: [Bigram Analysis of Writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
+-Strength: A lot of data is handled.
+-Improvement: I would have changed the organization of the data, because it took me a while to figure what the question being answered was.
+-Thing I learned: I learned how to use glob. 
 
 
 ## Ting-Wei
@@ -94,7 +100,7 @@ analysis.
 ## Matt
 
 - Project 1: [NYT_Figures_Sentiment Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
-    - __Strengths__: Jupyter Notebooks well organized. Good visualizations of the data in presentation, 
+    - __Strengths__: Jupyter Notebooks well organized. Good visualizations of the data in presentation,
     - __Improvements__: Could probably use more time to process data (said was 1/2 done on presentation), maybe more data samples for people if possible within licensing. Also, a longer time period sample would make the results more impactful, though I understand that would up the processing time.
     - __What I learned__: NLTK package has the code to run VADER, a sentiment analysis tool which was used in this project.
 
@@ -102,4 +108,5 @@ analysis.
     - __Strengths__: Lots of data to work with, gives appropriate data samples,
     - __Improvements__:Could use a little more organization of repository - jupyter notebook files in a separate repository for example. Presentation feels incomplete, could also use more markdown to explain and organize his/her jupyter notebook files
     - __What I learned__: A vague idea of how to incorporate Count Vectorizer into my own project, though nothing solid yet. Also, how to present replicable data processing when your corpus is too large to fit onto GitHub.
-    
+
+>>>>>>> 676813c956030d9172cc8aa8b1861bff7f12b2bf
