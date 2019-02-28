@@ -67,3 +67,10 @@ analysis.
 	- Strength: Clear explanation for final report. Clear comparison
 	- Improvement: The chart in 'trigram' part is not easy to understand.
 	- Thing I learned: A lot of ideas for comparing native and non-native English.
+
+## David
+
+* Project 1: [Document_Clustering](https://github.com/Data-Science-for-Linguists/Document_Clustering) by Dan Zheng
+	* **Strength:** Very clear exposition in presentation slides.
+	* **Improvement:** It is unclear whether either single-layer or hierarchical clustering can provide the most useful perspective on the data. For example, a human might think that a resource (bookmark) is associated meaningfully, even if not equally, with more than one topic, and might want it to be in more than one category simultaneously, where the categories may not form a hierarchy. The two models explored here don’t seem designed to assign the same thing to more than one cluster other than hierarchically. Are there alternative models?
+	* **Thing I learned:** How to approach the same core task with K-Means and Hierarchical clustering, and what the code looks like to perform the clustering.
