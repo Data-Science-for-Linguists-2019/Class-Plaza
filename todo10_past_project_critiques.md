@@ -74,3 +74,10 @@ analysis.
 	* **Strength:** Very clear exposition in presentation slides.
 	* **Improvement:** It is unclear whether either single-layer or hierarchical clustering can provide the most useful perspective on the data. For example, a human might think that a resource (bookmark) is associated meaningfully, even if not equally, with more than one topic, and might want it to be in more than one category simultaneously, where the categories may not form a hierarchy. The two models explored here don’t seem designed to assign the same thing to more than one cluster other than hierarchically. Are there alternative models?
 	* **Thing I learned:** How to approach the same core task with K-Means and Hierarchical clustering, and what the code looks like to perform the clustering.
+
+## Elena
+
+  - Project 1: [NYT_Figures_Sentiment_Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis) by Christopher Lagunilla
+    - **Strengths:** Super well organized, visualizations are easy to understand and aesthetically pleasing. Sentiment analysis includes four categories: "positive",  "negative", "neutral", and "composite".
+    - **Improvements:** Maybe try the scikit learn NB classifier instead of NLTK? Also try and clean up the tokens a little bit more for the sentiment classification and training -- some of the features still included punctuation, which may have an effect on the sentiment classification. Also, may have been interesting to look at coverage of one or both of the persons of interest (e.g. Barack Obama) over time, to see how sentiment changed over a longer period of time.
+    - **What I Learned:** How to read in and process XML files -- also learned about a sentiment analyzer (Vader)
