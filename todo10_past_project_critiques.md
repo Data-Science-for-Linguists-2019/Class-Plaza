@@ -102,4 +102,19 @@ analysis.
     - __Strengths__: Lots of data to work with, gives appropriate data samples,
     - __Improvements__:Could use a little more organization of repository - jupyter notebook files in a separate repository for example. Presentation feels incomplete, could also use more markdown to explain and organize his/her jupyter notebook files
     - __What I learned__: A vague idea of how to incorporate Count Vectorizer into my own project, though nothing solid yet. Also, how to present replicable data processing when your corpus is too large to fit onto GitHub.
-    
+	
+## Patrick 
+
+- Project 1: [Bigram Analysis of writing from ELI by Ben Naismith](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
+	- Strengths: Well organized, analysis is thorough and lucid, lots of graphics that make it easier to understand. 
+	- Improvements: I don't know if this is Ben's fault but (at least on my computer) the formatting for the markdown isn't working properly. Headers written with hashtags don't show up at all, links to things within the page don't work, some of the lists aren't working properly, etc. 
+	- What I learned: Try to use as many images as possible so data can be understand more easily.
+- Project 2: [Project Corbett by Robert Corbett](https://github.com/Data-Science-for-Linguists/Project_Corbett)
+	- Strengths: The analysis is well done, and the topic and results are fairly interesting. Robert's code is also pretty thoroughly commented.
+	- Improvement: His presentation is really poorly made, he uses black text with a background that is part black and has typos and stuff. Did he not finish it?
+	Is he storing all of the text for each subreddit in a single file? And with all of the json information for every single comment. I didn't read through all his 
+	code but why would he ever need to use, say, the author or his flair? Does he even need to retain any information other than text and score? it seems like he 
+	probably could have just kept the those two and reduced memory and storage used.
+	- What I learned: Make sure my powerpoint is readable. Make sure I am storing my data efficiently and appropriately for my goals. Make sure to use comments
+	(or markdown blocks in jupyter notebook) so my code is clear.
+	
