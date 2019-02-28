@@ -40,4 +40,19 @@ instead of just individual pie charts and bar graphs.
 data from tweets and publishing data! What tweets Twitter gives you 
 access to is an important consideration when doing any kind of twitter 
 analysis.
+- Project 2: [NYT Sentiment 
+Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis) 
+by Christopher Lagunilla
+	- Strength: Really well organized/navigable! They included and 
+clearly labeled old/abandoned code even though their final project ended 
+up going a different direction. Past/failed attempts can 
+be just as informative as successes! This lets visitors to the repo see 
+what not to do, or let them attempt an approach Christopher decided not to 
+take.
+	- Improvement: The project could discuss a bit more about how 
+VADER works, to get a better idea of what the program is looking for 
+when classifying sentiment.
+	- Thing I learned: how to unpack xml files and use regular 
+expressions with glob to find specific tags. Also, this introduced me to 
+the sentiment analyzer VADER!
 
