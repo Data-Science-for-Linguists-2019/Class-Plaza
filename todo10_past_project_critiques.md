@@ -86,7 +86,7 @@ analysis.
     - Improvements: Maybe try the scikit learn NB classifier instead of NLTK? Also try and clean up the tokens a little bit more for the sentiment classification and training -- some of the features still included punctuation, which may have an effect on the sentiment classification. Also, may have been interesting to look at coverage of one or both of the persons of interest (e.g. Barack Obama) over time, to see how sentiment changed over a longer period of time.
     - What I Learned: How to read in and process XML files -- also learned about a sentiment analyzer (Vader)
 
-- Project 2: [2016 Election Project](https://github.com/Data-Science-for-Linguists/2016-Election-Project)
+- Project 2: [2016 Election Project](https://github.com/Data-Science-for-Linguists/2016-Election-Project) by Paige Haring
   - Strengths: Organization of data is great, thorough explanations of code and thought process throughout the project.
   - Improvements: It would have been interesting to see how the moderators refer to the candidates. Perhaps beyond the scope of the project at the time, but it would also be interesting to see how the media referred to candidates, or how candidates referred to each other outside of debates (like in interviews).
-  - What I Learned: Entity naming 
+  - What I Learned: Entity naming
