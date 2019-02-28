@@ -48,9 +48,9 @@ analysis.
 	- **What did I learn?** There's a lot of numerical analysis here! This can be helpful if I need a refresher on creating graphs and other sorts of numerical data.
 
 - Project 2: [Discourse Analysis of the Australian Radio Talkback](https://github.com/Data-Science-for-Linguists/Discourse-Analysis-ART-Corpus)
-	- **What was done well?**
-	- **What could be improved?**
-	- **What did I learn?**
+	- **What was done well?** Very clean code and pretty and intuitive graphs! I liked how everything was labeled so I didn't have to struggle to read through the code and figure out what each output corresponded to. This analysis seems very thorough.
+	- **What could be improved?** When comparing groups of people, use statistical tests so we can see if the groups are actually significantly different. It would also be cool to compare the findings to an American talk show!
+	- **What did I learn?** Australian talk shows are predominantly male, or at least the ones from this data sample. I also learned what back channels are, and thought it was really interesting how men produce more back channels when listening to men talk, and women produce more back channels when listening to women talk.
 
 ##Goldie
 -Project 1:
