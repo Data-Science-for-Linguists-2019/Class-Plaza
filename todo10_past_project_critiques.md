@@ -52,15 +52,15 @@ analysis.
 	- **What could be improved?** When comparing groups of people, use statistical tests so we can see if the groups are actually significantly different. It would also be cool to compare the findings to an American talk show!
 	- **What did I learn?** Australian talk shows are predominantly male, or at least the ones from this data sample. I also learned what back channels are, and thought it was really interesting how men produce more back channels when listening to men talk, and women produce more back channels when listening to women talk.
 
-##Goldie
--Project 1: [NYT Sentiment Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
--Strength: very well organized, nice visualizations
--Improvement: They said that only half was done, so maybe they could come back to this and finish it.
--Thing I learned: I learned how to process XML files.
--Project 2: [Bigram Analysis of Writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
--Strength: A lot of data is handled.
--Improvement: I would have changed the organization of the data, because it took me a while to figure what the question being answered was.
--Thing I learned: I learned how to use glob.
+## Goldie
+- Project 1: [NYT Sentiment Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
+  - Strength: very well organized, nice visualizations
+  - Improvement: They said that only half was done, so maybe they could come back to this and finish it.
+  - Thing I learned: I learned how to process XML files.
+- Project 2: [Bigram Analysis of Writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
+  - Strength: A lot of data is handled.
+  - Improvement: I would have changed the organization of the data, because it took me a while to figure what the question being answered was.
+  - Thing I learned: I learned how to use glob.
 
 
 ## Ting-Wei
