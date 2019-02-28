@@ -55,10 +55,10 @@ analysis.
 
 
 ## Ting-Wei
-- Project 1: [Document_Clustering](https://github.com/Data-Science-for-Linguists/Document_Clustering)
-	- Strength:
-	- Improvement:
-	- Thing I learned:
+- Project 1: [Document_Clustering](https://github.com/Data-Science-for-Linguists/Document_Clustering) by Dan Zheng
+	- Strength: Handling really huge data - 12GB, Great idea to implement clustering method on data classification. Clearly explanation.
+	- Improvement: For Hierarchical Clustering, it is hard to read the result. And the result seems to contain a lot of 'a' initial words.
+	- Thing I learned: Real implementations on Tf-idf Vectors, K-Means and t-SNE method. Clearly coding style.
 
 - Project 2: [Native_and_Non-native_English](https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English)
 	- Strength:
