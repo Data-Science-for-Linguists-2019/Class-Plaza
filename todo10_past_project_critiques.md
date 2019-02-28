@@ -60,7 +60,7 @@ analysis.
 -Project 2: [Bigram Analysis of Writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
 -Strength: A lot of data is handled.
 -Improvement: I would have changed the organization of the data, because it took me a while to figure what the question being answered was.
--Thing I learned: I learned how to use glob. 
+-Thing I learned: I learned how to use glob.
 
 
 ## Ting-Wei
@@ -109,4 +109,14 @@ analysis.
     - __Improvements__:Could use a little more organization of repository - jupyter notebook files in a separate repository for example. Presentation feels incomplete, could also use more markdown to explain and organize his/her jupyter notebook files
     - __What I learned__: A vague idea of how to incorporate Count Vectorizer into my own project, though nothing solid yet. Also, how to present replicable data processing when your corpus is too large to fit onto GitHub.
 
->>>>>>> 676813c956030d9172cc8aa8b1861bff7f12b2bf
+## Eva
+
+- Project 1: [Analyzing the Australian Radio Talkback Corpus by Speaker Role and Gender](https://github.com/Data-Science-for-Linguists/Discourse-Analysis-ART-Corpus) by Alicia
+    - __Strengths__: Code is very well organized - I like the tables of contents! The graphs are nice and easy to read. I like how this project connects to outside research.
+    - __Improvements__: I think more could have been done with most common male and female back channels - since the most frequent are pretty much the same across the board, maybe look at which words are only said by women or only said by men.
+    - __Thing I learned__: Australian men on radio shows are more likely to reply when speaking to other men, and women are slightly more likely to reply to other women. A lot of new things you can do with matplotlib.
+
+- Project 2: [Analysis of bigrams from learners' written work at the Pitt English Language Institute (ELI)](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI) by Ben Naismith
+    - __Strengths__: I like the powerpoint! Having the data in a CSV is useful for anyone who would like to replicate the experiment. I like the idea of a visitor's log - I guess everyone had to do this, but Ben specifically linked to his in the readme.
+    - __Improvements__: Graph names could be more informative. Not super organized. I was confused about where to go first.
+    - __Thing I learned__: Most students spend 2 semesters studying at the ELI. I also learned about mutual information (MI), a measure of two-way collocation.
