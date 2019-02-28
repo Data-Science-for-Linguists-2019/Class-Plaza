@@ -47,7 +47,10 @@ analysis.
 	- **What could be improved?** I think it's hard to compute things with tweepy since it is so limited. From my use of Twitter, I know favorites are more popular than retweets, but from this project, it was concluded there were more retweets. This intuitively doesn't make sense to me, so I think there is something more going on here.
 	- **What did I learn?** There's a lot of numerical analysis here! This can be helpful if I need a refresher on creating graphs and other sorts of numerical data.
 
-- Project 2:
+- Project 2: [Discourse Analysis of the Australian Radio Talkback](https://github.com/Data-Science-for-Linguists/Discourse-Analysis-ART-Corpus)
+	- **What was done well?**
+	- **What could be improved?**
+	- **What did I learn?**
 
 ##Goldie
 -Project 1:
