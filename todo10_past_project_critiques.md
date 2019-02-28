@@ -82,6 +82,11 @@ analysis.
 ## Elena
 
   - Project 1: [NYT_Figures_Sentiment_Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis) by Christopher Lagunilla
-    - **Strengths:** Super well organized, visualizations are easy to understand and aesthetically pleasing. Sentiment analysis includes four categories: "positive",  "negative", "neutral", and "composite".
-    - **Improvements:** Maybe try the scikit learn NB classifier instead of NLTK? Also try and clean up the tokens a little bit more for the sentiment classification and training -- some of the features still included punctuation, which may have an effect on the sentiment classification. Also, may have been interesting to look at coverage of one or both of the persons of interest (e.g. Barack Obama) over time, to see how sentiment changed over a longer period of time.
-    - **What I Learned:** How to read in and process XML files -- also learned about a sentiment analyzer (Vader)
+    - Strengths: Super well organized, visualizations are easy to understand and aesthetically pleasing. Sentiment analysis includes four categories: "positive",  "negative", "neutral", and "composite".
+    - Improvements: Maybe try the scikit learn NB classifier instead of NLTK? Also try and clean up the tokens a little bit more for the sentiment classification and training -- some of the features still included punctuation, which may have an effect on the sentiment classification. Also, may have been interesting to look at coverage of one or both of the persons of interest (e.g. Barack Obama) over time, to see how sentiment changed over a longer period of time.
+    - What I Learned: How to read in and process XML files -- also learned about a sentiment analyzer (Vader)
+
+- Project 2: [2016 Election Project](https://github.com/Data-Science-for-Linguists/2016-Election-Project)
+  - Strengths: Organization of data is great, thorough explanations of code and thought process throughout the project.
+  - Improvements: It would have been interesting to see how the moderators refer to the candidates. Perhaps beyond the scope of the project at the time, but it would also be interesting to see how the media referred to candidates, or how candidates referred to each other outside of debates (like in interviews).
+  - What I Learned: Entity naming 
