@@ -74,6 +74,10 @@ analysis.
 	* **Strength:** Very clear exposition in presentation slides.
 	* **Improvement:** It is unclear whether either single-layer or hierarchical clustering can provide the most useful perspective on the data. For example, a human might think that a resource (bookmark) is associated meaningfully, even if not equally, with more than one topic, and might want it to be in more than one category simultaneously, where the categories may not form a hierarchy. The two models explored here don’t seem designed to assign the same thing to more than one cluster other than hierarchically. Are there alternative models?
 	* **Thing I learned:** How to approach the same core task with K-Means and Hierarchical clustering, and what the code looks like to perform the clustering.
+* Project 2: [2016 Election Project](https://github.com/Data-Science-for-Linguists/2016-Election-Project) by Paige Haring
+	* **Strength:** Very clear exposition in notebooks.
+	* **Improvement:** The summary at the end of the slides is very clear, and is supported by the bar charts that precede, but could the researcher take the investigation one step further by exploring relationships among these (now interim) conclusions? For example, is there a statistically meaningful relationship between how Trump refers to Clinton and how she refers to him? And insofar as *Senator* or *Secretary* are *titles*, and not just *professional* references (unlike *Businessman*), does the fact that Trump doesn’t really have a title influence how we should interpret the distributions? The study does not appear to quantify this sort of information; could doing so lead to a next level of discourse and rhetorical analysis?
+	* **Thing I learned:** Possibly already familiar to everyone else in our course (I’m not much of a syntactician), but I didn’t know how to incorporate and render syntax trees in a notebook until I saw it demonstrated here.	`
 
 ## Elena
 
