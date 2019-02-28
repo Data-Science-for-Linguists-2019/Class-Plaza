@@ -98,5 +98,8 @@ analysis.
     - __Improvements__: Could probably use more time to process data (said was 1/2 done on presentation), maybe more data samples for people if possible within licensing. Also, a longer time period sample would make the results more impactful, though I understand that would up the processing time.
     - __What I learned__: NLTK package has the code to run VADER, a sentiment analysis tool which was used in this project.
 
-- Project 2: [
+- Project 2: [Project Corbett](https://github.com/Data-Science-for-Linguists/Project_Corbett)
+    - __Strengths__: Lots of data to work with, gives appropriate data samples,
+    - __Improvements__:Could use a little more organization of repository - jupyter notebook files in a separate repository for example. Presentation feels incomplete, could also use more markdown to explain and organize his/her jupyter notebook files
+    - __What I learned__: A vague idea of how to incorporate Count Vectorizer into my own project, though nothing solid yet. Also, how to present replicable data processing when your corpus is too large to fit onto GitHub.
     
