@@ -90,3 +90,13 @@ analysis.
   - Strengths: Organization of data is great, thorough explanations of code and thought process throughout the project.
   - Improvements: It would have been interesting to see how the moderators refer to the candidates. Perhaps beyond the scope of the project at the time, but it would also be interesting to see how the media referred to candidates, or how candidates referred to each other outside of debates (like in interviews).
   - What I Learned: Entity naming
+
+## Matt
+
+- Project 1: [NYT_Figures_Sentiment Analysis](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis/blob/master/jupyter_notebooks/processing_and_analysis/processing_and_analysis.md)
+    - __Strengths__: Jupyter Notebooks well organized. Good visualizations of the data in presentation, 
+    - __Improvements__: Could probably use more time to process data (said was 1/2 done on presentation), maybe more data samples for people if possible within licensing. Also, a longer time period sample would make the results more impactful, though I understand that would up the processing time.
+    - __What I learned__: NLTK package has the code to run VADER, a sentiment analysis tool which was used in this project.
+
+- Project 2:
+    
