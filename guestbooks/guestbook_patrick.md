@@ -1,4 +1,5 @@
-# TITLE
+# [Analysis of Russian News Sites](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News)
+Patrick Stoyer
 
 ### Katie's post
 
