@@ -7,3 +7,18 @@ Edit: Sorry, I forgot I made some updates to the BALC_clean.ipynb file, which ar
 Question: Why did the cowboy get a dachshund?
 
 ## Guest Entries:
+### Cassie's Visit:
+* **One Thing I Liked:** Good in depth look at your data and its 
+inconsistencies!Your code gives a clear outline of what your corpus 
+looks like and what flaws there are in its data. This makes the 
+motivation behind using /total/ totally clear! Also, really good use of 
+regular expressions to clean up your data!
+* **One Area of Improvement:** What's your motivation behind your 3 
+hypotheses at the bottom of your project plan file? In your summary, you 
+briefly explain how articles work in Arabic, Spanish, and Korean, but 
+this might not make reasons for your hypotheses clear to readers, 
+especially people who aren't familiar with those languages.
+* **One Thing I Learned:** At the bottom of your clean-up file, you use 
+something called SpellChecker from a package called spellchecker. I 
+didn't know there was a python package for that, but I'm not suprised 
+either. Ah, the wonders of python!
