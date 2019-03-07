@@ -9,19 +9,17 @@ Thanks for stopping by!
  - *What I learned*: I'm surprised the makeup of bloggers actually skews slightly male! I wonder if that's across the board, or just for the source for this corpus?
 
 ### David’s entries
- 
+
 2019-03-07
 
 #### What was done well
 
-Terrific exploration of the text and image files! My first thought was to ask why we need the image files when we have the texts, and the preparatory explanation alerted me to the sort of scrutiny that both the text and images merit, and even require.
+The organization of the data exploration, a combination of visual examination, statistical reporting, and plotting, is clear and effective. It made me think about the places where I trusted that my own data was what it purported to be, where I learned only later that it concealed unwelcome surprises that I could have avoided had I examined it more carefully at the beginning. The exploratory data analysis here is a solid example of how to do that. 
 
-I know we’re supposed to mention only one thing that was done well, but the box and whisker plots in the BALC cleaning file are exactly the right visualization for the story they need to tell.
+#### What could be improved
 
-#### Area for improvement
-
-Insofar as this was an interim report, and not just a peek at a work in progress, the cells at the bottom of BALC cleaning that generate errors or that haven’t been run might have been removed, or, at least, commented.
+Parsing XML with Python is always an adventure because none of the Python XML libraries has the full functionality available in languages that were designed to work with XML, like the most recent versions of XPath, XSLT, and XQuery. With that said, I would have liked to learn more about what it was about the data that made the XML difficult to manage in this case. That wouldn’t have improved the research (if someone has already converted the data to CSV and the CSV is easy to handle, it makes sense to use it), but it would have provided insight into what the specific issues were with the XML, and how they might be negotiated (otherwise than by avoiding XML entirely).
 
 #### What I learned
- 
-This ties into what was done well: even though some of the work seems to have been done for us ahead of time (transcription, categorization, and—at least implicitly—finding and squashing duplication), and even though the project that published the data is fairly mature, we need to verify the data, and not trust it as received. For example, we didn’t check the ETS data for duplicates, and I would (unwisely) have extrapolated from that procedure and not checked BALC adequately.
+
+We’ve practiced several ways to create charts and graphs so far, and the `.plot()` method used here is one of the simplest we’ve seen.
