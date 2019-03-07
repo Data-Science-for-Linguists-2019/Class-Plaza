@@ -7,3 +7,17 @@ Edit: Sorry, I forgot I made some updates to the BALC_clean.ipynb file, which ar
 Question: Why did the cowboy get a dachshund?
 
 ## Guest Entries:
+
+### David’s entries
+
+2019-03-07
+
+#### What was done well
+
+
+
+#### Area for improvement
+
+
+
+#### What I learned
