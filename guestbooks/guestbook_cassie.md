@@ -5,6 +5,6 @@ Explore my project
 
 So far, my project is mostly data organization, and right now my data 
 really resembles a hydra (each time I fix one 
-portion of my data, three more rear their ugly heads).
+problem in my data, three more rear their ugly heads).
 
 Any and all feedback is really appreciated!!!! 
