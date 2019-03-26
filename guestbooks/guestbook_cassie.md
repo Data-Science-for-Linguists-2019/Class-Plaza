@@ -20,3 +20,8 @@ Any and all feedback is really appreciated!!!!
 - **One thing I liked** : Wow you watched Moana and typed all the lines in? Nice lol. Overall, I like your plan and your code seems well written.
 - **One area of improvement** : Why'd you get rid of Lion King? There isn't a princess but there's Nala. Also, imo you may want to consider how significant the messiness of the disney corpus is. Your data will never be perfect, and it may not be worth the time and effort to go through all of the data and fix everything, depending on how messy it is. Just something to think about.
 - **One thing I learned** : A method to create a dataframe of lines of speech from a movie script.
+
+### Katie
+- **One thing I liked** : Such a cool topic! I also like how you really walk through the code so we can understand your process and what's going on. I'm also impressed by how much work goes into the cleaning of the data.
+- **One area of improvement** : Will you be doing any machine learning? I understand why you wouldn't, since your task is already so huge! But if you do, an easy(/ier) one would be identifying the gender of the speaker.
+- **One thing I learned** : The use of the "partial" function was interesting! A cool way to reuse code.
