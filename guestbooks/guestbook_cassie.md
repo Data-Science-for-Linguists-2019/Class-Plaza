@@ -45,3 +45,10 @@ will definitely try it out!
 - **One thing I liked** : Interesting idea. I enoyed Disney, Dreamworks and other related animated movies when I was young, so I can appreciate the content being used. Also, I like the large amount of content being processed as well.   
 - **One area of improvement** : Relative file paths should be used instead of the file paths you have now. Gives your filee save/load commands a cleaner look, and makes it so that you can run your code can be run on different machines with little hassle.
 - **One thing I learned** : Streamlining multiple different corpora using slightly different methods for each. Also a nice refresher on how to use the re module in python.
+
+#### Cassie's Response:
+Thanks for visiting my project, Matt! I've always been a huge fan of 
+animated movies, so this corpus makes a sometimes frustrating project a 
+little more fun. Also, you're right about the relative file paths. I 
+always just copy the path from my directory, and rarely bother to edit 
+it in my code. Thanks for the heads up! 
