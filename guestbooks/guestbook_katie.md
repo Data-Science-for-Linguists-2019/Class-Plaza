@@ -11,6 +11,8 @@ Click [here](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interac
 - *One thing I learned*: The use of the .nunique() function was very cool and I'm definitely going to use that in the future for my own project. (also I was a _little_ surprised by how male-dominated Ted Talk responses were at the time this data was collected).
 Keep up the awesome work!!! I really look forward to seeing where this project travels.
 
+## Response
+Thank you for the feedback! Yes there's definitely a big skew and I will definitely think about your suggestions!
 
 ### John's Second Entries:
 - *What waas done well*: As expected, everything looks great! No corner was left unturned. I really enjoyed the visualizations of your data as well -- they really aided in my understanding of 
