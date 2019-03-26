@@ -14,3 +14,7 @@
 - **One area of improvement** : There may be limitations on using more contemporary books, but they would probably be more useful since orthography may have changed from the 19th/early 20th century. Also, it may be better to use re.sub on '\n+' instead of just '\n' if you want to get rid of new line characters, since this will replace all new line characters in a row with a single space, rather than one space per newline character. You could also do something like [\r?\n]+ (i think this is the right syntax) which if I wrote it correctly, should match all of new line characters in a row, as well as new line characters separated by the carraige return character (all new line characters seem to be preceded by \r so you could maybe just use [\r\n]+). 
 - **One thing I learned** : Using nltk plaintextcorpusreader to make df.
 
+#### Katie
+- **One thing I liked** : I like the idea! It's definitely different from a lot of the other projects. I also liked how you cleaned the data - it was easy to follow along with this process.
+- **One area of improvement** : The ELI DataFrame is a little confusing to me. I think it would be beneficial to add some explanation as to where this came from and what the different columns mean. Also it would be cool to identify native language using machine learning, if you weren't planning on doing that already!
+- **One thing I learned** : I thought it was cool how you eliminated the personal part of the data and flashed some of the rest of it! That was definitely a good idea for how to handle fair use.
