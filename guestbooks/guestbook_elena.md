@@ -47,6 +47,4 @@ either. Ah, the wonders of python!
 
 * **One Area of Improvement:** You can add more explanation to your data analysis to make it clear.
 
-
-
-* **One Thing I Learned:** 
+* **One Thing I Learned:** Many data processing method. I am really impressed by the regular expressions skill you have. There's a lot that I can learn.
