@@ -12,3 +12,21 @@ Note: I had some problems with the encoding of my files, so I have been chunking
 
 #### Thank you Eva!
 I will definitely look into creating a [+/- idiom] column -- that's a great idea! And yes; I will most definitely include more about Persian in the future.
+
+### Cassie's entry (3/26/19)
+- **What I Like:** What an interesting project! You did great research 
+on different potential parsers to use, and your organization in your 
+jupyter notebook makes your code/line of thinking very easy to follow! 
+Also, great job at acknowledging where you're having trouble and citing 
+resources you used to tackle these issues.
+- **What Can Be Improved:** I agree with Eva--some background on how 
+English and Persian syntax differ would be helpful. This info could 
+help explain the approaches you'll take during your analysis portion. 
+You mention similes in English...is simile structure usually different 
+in Persian? Also, don't be so hard on yourself! You have a very 
+interesting, very impressive project--even if you're not as far as 
+you'd like, you've made lots of progress.
+- **What I Learned:** That sometimes Windows computers aren't the best, 
+and Colab can be a good way to run code that the computer can't deal 
+with. Also, I've never used XML parsing, so this was a nice look at how 
+xml file processing works.

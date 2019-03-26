@@ -26,6 +26,9 @@ Insofar as this was an interim report, and not just a peek at a work in progress
 
 This ties into what was done well: even though some of the work seems to have been done for us ahead of time (transcription, categorization, and—at least implicitly—finding and squashing duplication), and even though the project that published the data is fairly mature, we need to verify the data, and not trust it as received. For example, we didn’t check the ETS data for duplicates, and I would (unwisely) have extrapolated from that procedure and not checked BALC adequately.
 
+__**Thank you so much for your comments, David! This was really good feedback. I did incorporate your comments for improvement and removed the error-generating cells and ran necessary cells before the second progress report. - Elena**__
+
+
 ### Cassie's Visit:
 * **One Thing I Liked:** Good in depth look at your data and its
 inconsistencies!Your code gives a clear outline of what your corpus
@@ -41,3 +44,14 @@ especially people who aren't familiar with those languages.
 something called SpellChecker from a package called spellchecker. I
 didn't know there was a python package for that, but I'm not suprised
 either. Ah, the wonders of python!
+
+__**Thank you so much for your comments, Cassie! You're totally right, I made those hypotheses and didn't share an explicit and fully fleshed-out reasoning for them, and that may make it seem like a reach for those unfamiliar with the languages I chose. I will incorporate these moving forward! I meant to update this before the 2nd progress report, but forgot. - Elena**__
+
+### Tingwei's Visit:
+* **One Thing I Liked:** Your project has a lot of great ideas that I can use in mine. And I really like the way you did for data processing and analysis.
+
+* **One Area of Improvement:** You can add more explanation to your data analysis to make it clear.
+
+* **One Thing I Learned:** Many data processing method. I am really impressed by the regular expressions skill you have. There's a lot that I can learn.
+
+__**Thank you so much for your comments, Tingwei! I definitely do need to expand on my analysis. I will make sure it's more fleshed out moving forward. - Elena**__
