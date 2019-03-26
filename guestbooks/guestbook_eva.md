@@ -4,11 +4,18 @@ Welcome to my project! For more information about the project, check out [my pro
 Thanks for stopping by!
 
 ### Elena's entries
+#### 2019.03.07
  - *What was done well*: Your organization and writeup is really well-organized and easy to follow. The investigating you've done with the makeup of the corpus so far is pretty thorough, though I'm looking forward to see what else you'll add in the future! I think this is a really exciting project -- there's a lot that you can do with this, and you've set yourself up nicely here to go in a few different directions.
  - *What could be improved*: I think it would be interesting to look at the gender makeup of the different industries/ages, maybe as a consideration for the future (once you start doing the sentiment analysis). This might be especially pertinent if you're looking at usage of new lexis/linguistic trends, since women are often leaders of linguistic variation. It would be interesting to see if this is true in online language. Another consideration might be to look at the most common words used by gender (whether that's overall, by industry, by age, what have you).
  - *What I learned*: I'm surprised the makeup of bloggers actually skews slightly male! I wonder if that's across the board, or just for the source for this corpus?
 
  __*Thank you Elena! I tried incorporating the gender makeup of industries in my second progress report and I'm definitely going to continue to explore linguistic variation from that angle. - Eva*__
+
+#### 2019.03.26
+- *What was done well*: Again, your organization is fantastic, and your visualizations are easy to understand. I also really appreciate your comments about the topic clustering haha.
+- *What could be improved*: When you do the original counter for words by industry -- why don't you try loading NLTK stop words as a variable straight in this step? You would be able to throw them out and try to re-visualize. I'm not sure if this would be faster or slower than using TF-IDF and count vectorizer, though.
+- *What I learned*: I didn't know there was a Google Translate module in python! The more you know :)
+
 
 ### David’s entries
 
