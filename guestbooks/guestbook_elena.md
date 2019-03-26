@@ -41,13 +41,3 @@ especially people who aren't familiar with those languages.
 something called SpellChecker from a package called spellchecker. I
 didn't know there was a python package for that, but I'm not suprised
 either. Ah, the wonders of python!
-
-
-### Tingwei's Visit:
-* **One Thing I Liked:** Your project has a lot of great ideas that I can use in mine. And I really like the way you did for data processing and analysis.
-
-* **One Area of Improvement:** You can add more explanation to your data analysis to make it clear.
-
-
-
-* **One Thing I Learned:** 

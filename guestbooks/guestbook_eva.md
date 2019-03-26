@@ -43,8 +43,3 @@ LDA for topic detection.
 Also, super interesting that astrological signs are included in this
 data (even though this stat doesn't seem to have a huge impact on your
 analysis)!
-
-### Tingwei's Visit:
-* **One Thing I Liked:**
-* **One Area of Improvement:**
-* **One Thing I Learned:** 
