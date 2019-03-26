@@ -27,3 +27,19 @@ Parsing XML with Python is always an adventure because none of the Python XML li
 We’ve practiced several ways to create charts and graphs so far, and the `.plot()` method used here is one of the simplest we’ve seen.
 
 __*Thank you David! In the original XML files, each file was a blogger, and all of their blogs (for some bloggers, one blog, for others, a couple thousand) were stored in that file. I was having difficulty figuring out how to separate out individual blogs in each file and then recombine all of that data. In the future, I hope to learn more about handling XML files... but for now I'm very glad someone else did that for me. - Eva*__
+
+
+### Cassies Entry (3/26/19)
+- **What I Liked:** Great use of graphs for visualizations and 
+exploration! 
+Your code is easy to follow and illustrated well.
+- **What Can Be Improved:** You mentioned this at the end of your second 
+ipynb file, but take out those url links if you can! Also, is there are 
+reason you've limited the number of words per topic? How could 
+increasing this number affect your results?
+- **What I Learned:** Using Counter() for word frequency distributions, 
+and 
+LDA for topic detection. 
+Also, super interesting that astrological signs are included in this 
+data (even though this stat doesn't seem to have a huge impact on your 
+analysis)!
