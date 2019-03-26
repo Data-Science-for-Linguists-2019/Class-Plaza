@@ -40,3 +40,8 @@ fixing issues as I came across them during my annotation processes.
 Thanks for the visit, Katie! I like the idea of using machine learning 
 to identify gender. If I have time to do this after my other work, I 
 will definitely try it out!
+
+### Matt
+- **One thing I liked** : Interesting idea. I enoyed Disney, Dreamworks and other related animated movies when I was young, so I can appreciate the content being used. Also, I like the large amount of content being processed as well.   
+- **One area of improvement** : Relative file paths should be used instead of the file paths you have now. Gives your filee save/load commands a cleaner look, and makes it so that you can run your code can be run on different machines with little hassle.
+- **One thing I learned** : Streamlining multiple different corpora using slightly different methods for each. Also a nice refresher on how to use the re module in python.
