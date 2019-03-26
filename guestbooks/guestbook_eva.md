@@ -50,3 +50,10 @@ LDA for topic detection.
 Also, super interesting that astrological signs are included in this
 data (even though this stat doesn't seem to have a huge impact on your
 analysis)!
+
+### Tingwei's Visit:
+* **One Thing I Liked:** Your analysis is very clear with a lot of graph explanation. I like it. You also design many useful functions , that's great.
+
+* **One Area of Improvement:** For the Blogger gender by industry chart, maybe you can adjust the color to meet the previous charts. Ex: blue for male, orange for female. That would be easier to read.
+
+* **One Thing I Learned:** Many data analysis methods. There are a lot of plot function I can utilize in my project.
