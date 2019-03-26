@@ -1,12 +1,14 @@
 # Eva's Project: [Blog Sentiment Analysis](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis)
 Welcome to my project! For more information about the project, check out [my project plan](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/blob/master/project_plan.md). If you're interested in looking at some 2004 blogs, check out the [data_samples folder](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/tree/master/data_samples).
 
-Thanks for stopping by! 
+Thanks for stopping by!
 
 ### Elena's entries
  - *What was done well*: Your organization and writeup is really well-organized and easy to follow. The investigating you've done with the makeup of the corpus so far is pretty thorough, though I'm looking forward to see what else you'll add in the future! I think this is a really exciting project -- there's a lot that you can do with this, and you've set yourself up nicely here to go in a few different directions.
  - *What could be improved*: I think it would be interesting to look at the gender makeup of the different industries/ages, maybe as a consideration for the future (once you start doing the sentiment analysis). This might be especially pertinent if you're looking at usage of new lexis/linguistic trends, since women are often leaders of linguistic variation. It would be interesting to see if this is true in online language. Another consideration might be to look at the most common words used by gender (whether that's overall, by industry, by age, what have you).
  - *What I learned*: I'm surprised the makeup of bloggers actually skews slightly male! I wonder if that's across the board, or just for the source for this corpus?
+
+ __*Thank you Elena! I tried incorporating the gender makeup of industries in my second progress report and I'm definitely going to continue to explore linguistic variation from that angle. - Eva*__
 
 ### David’s entries
 
@@ -14,7 +16,7 @@ Thanks for stopping by!
 
 #### What was done well
 
-The organization of the data exploration, a combination of visual examination, statistical reporting, and plotting, is clear and effective. It made me think about the places where I trusted that my own data was what it purported to be, where I learned only later that it concealed unwelcome surprises that I could have avoided had I examined it more carefully at the beginning. The exploratory data analysis here is a solid example of how to do that. 
+The organization of the data exploration, a combination of visual examination, statistical reporting, and plotting, is clear and effective. It made me think about the places where I trusted that my own data was what it purported to be, where I learned only later that it concealed unwelcome surprises that I could have avoided had I examined it more carefully at the beginning. The exploratory data analysis here is a solid example of how to do that.
 
 #### What could be improved
 
@@ -23,3 +25,5 @@ Parsing XML with Python is always an adventure because none of the Python XML li
 #### What I learned
 
 We’ve practiced several ways to create charts and graphs so far, and the `.plot()` method used here is one of the simplest we’ve seen.
+
+__*Thank you David! In the original XML files, each file was a blogger, and all of their blogs (for some bloggers, one blog, for others, a couple thousand) were stored in that file. I was having difficulty figuring out how to separate out individual blogs in each file and then recombine all of that data. In the future, I hope to learn more about handling XML files... but for now I'm very glad someone else did that for me. - Eva*__
