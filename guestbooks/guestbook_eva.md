@@ -30,16 +30,16 @@ __*Thank you David! In the original XML files, each file was a blogger, and all 
 
 
 ### Cassies Entry (3/26/19)
-- **What I Liked:** Great use of graphs for visualizations and 
-exploration! 
+- **What I Liked:** Great use of graphs for visualizations and
+exploration!
 Your code is easy to follow and illustrated well.
-- **What Can Be Improved:** You mentioned this at the end of your second 
-ipynb file, but take out those url links if you can! Also, is there are 
-reason you've limited the number of words per topic? How could 
+- **What Can Be Improved:** You mentioned this at the end of your second
+ipynb file, but take out those url links if you can! Also, is there are
+reason you've limited the number of words per topic? How could
 increasing this number affect your results?
-- **What I Learned:** Using Counter() for word frequency distributions, 
-and 
-LDA for topic detection. 
-Also, super interesting that astrological signs are included in this 
-data (even though this stat doesn't seem to have a huge impact on your 
+- **What I Learned:** Using Counter() for word frequency distributions,
+and
+LDA for topic detection.
+Also, super interesting that astrological signs are included in this
+data (even though this stat doesn't seem to have a huge impact on your
 analysis)!
