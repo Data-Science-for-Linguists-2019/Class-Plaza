@@ -26,3 +26,9 @@ put into compiling this data is VERY impressive!
 * Strength: Complete data and nice data cleaning. Clear project explanation.
 * Improvement: No matter the project report or progress report, they are all really complete. A lot of instruction to guide me. The only thing that I do not understand is how to pronounce Russian.
 * Thing I learned: Basic Russian knowledge, ex: Phonetic and RhymeWord. The translation from Russian to English. 
+
+## Matt
+
+- **One thing I liked** Use of codeblocks for displaying code. Well organized jupyter notebooks. Uses tools besides ones taught in class.
+- **One area of improvement** : Repository Organization - could separate some files in the root to additional folders. Maybe some additional commenting on your non-jupyter python (just a little, I understand most of the documentation is found elsewhere, which you have linked).  
+- **One thing I learned** : Learning to process XML with Python. Also, learning more about your corpus. Unfortunately, did not learn Russian.
