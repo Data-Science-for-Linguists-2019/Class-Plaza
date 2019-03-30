@@ -27,3 +27,11 @@ Thanks for your feedback! Your opinion is really useful for me. I will apply it 
 
 #### Response
 Thanks for the encouragement. I still have a lot of work to achieve my project goal.
+
+#### John
+- *What was good:* Your project is clean, easy to follow, and has a 
+clear goal.
+- *What could be improved:* I could use a little more explanation on why 
+you chose your license. Also, the ELI DF is a bit confusing still.
+- *What I learned:* .rename is a simple function to use, but I never 
+knew about it! I wish I had before...!

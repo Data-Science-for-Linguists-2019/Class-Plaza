@@ -11,3 +11,14 @@ Patrick Stoyer
 * __One thing I liked__ : Decent explanations of code, presents errors in their full glory for all to see. In other words, actually goes over what's wrong instead of trying to hide it.
 * __Area of Improvement__ : Presentation - you print out your scraping code, rather than copying and pasting it into a cell (be it code or markdown with syntax highlighting) or uploading the file separately? I fail to see what this accomplishes, if anything makes things worse. Code with plain text fonts just looks ugly and hard to read. I would at the least put it in a markdown cell with syntax highlighting.
 * __One thing I learned__ : BeautifulSoup and webscraping. Also, using os change directory in python to navigate to files in a live program
+
+### John (accidentally did the same two twice for to-do 1 and 2)
+- *What was good:* You walked us through everything really well (though 
+maybe you don't need to flash the whole text as much)! I loved 
+how you showed us how your code worked and everything in your overviews.
+- *What could be improved:* I would like some interpretations of your 
+data as you go along! I think you're touching on some great things, but 
+some things are still lacking in depth.
+- *What I learned:* Data scraping is really interesting. The code seems 
+to have worked well for you, and I'm interested in using selenium in the 
+future!
