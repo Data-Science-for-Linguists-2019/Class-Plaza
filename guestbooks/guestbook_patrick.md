@@ -11,3 +11,8 @@ Patrick Stoyer
 * __One thing I liked__ : Decent explanations of code, presents errors in their full glory for all to see. In other words, actually goes over what's wrong instead of trying to hide it.
 * __Area of Improvement__ : Presentation - you print out your scraping code, rather than copying and pasting it into a cell (be it code or markdown with syntax highlighting) or uploading the file separately? I fail to see what this accomplishes, if anything makes things worse. Code with plain text fonts just looks ugly and hard to read. I would at the least put it in a markdown cell with syntax highlighting.
 * __One thing I learned__ : BeautifulSoup and webscraping. Also, using os change directory in python to navigate to files in a live program
+
+### Eva's post
+- __What was done well:__ Good organization and pretty good explanations throughout your jupyter notebooks and in your project plan. Good job with the web scraping, you got a lot of data! There's a lot of different places to go with your data and I'm interested to see what else you discover through topic modeling and sentiment analysis especially.
+- __Improvements and suggestions:__ It's unclear where to start when looking through your project plan and progress report. It could be helpful to include links throughout your write-up documents to  different jupyter notebooks. You could also put a short explanation in your readme of what's in each folder, document, etc. Explanations (mostly just for the LDA/LSA) could have been more detailed.
+- __What I learned:__ It's a really good idea to lemmatize the text before topic modeling! I didn't even consider that I could do that. I'm going to try that in my own analysis now.
