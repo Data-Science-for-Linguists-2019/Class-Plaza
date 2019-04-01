@@ -38,3 +38,17 @@ put into compiling this data is VERY impressive!
 - **Strengths** : I really like the project you are doing as I love Russian poetry. Your code is robust and well-written and pretty much checks all bases. I'm excited to see what the results will be.
 - **Improvement** : You're missing a couple enclitics ("б", "ж", "ль") in your cyr2phon.py script. Also, I may be wrong but I think that your code currently only changes the idiosyncratic pronunciations (e.g. что, конечно, и т.п.) when they start a word (your code is {re.compile(r"\b" + key): value for key, value in lexical_data.items()}). If that's the case they won't match word internally, specifically I'm thinking of words like нечто/ничто (which aren't super common but ничто appears once in the first chapter of EO), нечестный, неизвестный. Nevertheless, these aren't really important mistakes for your purposes afaik, but they seem like they'd be easy to fix. Oh wait I was just thinking, I don't think your code accounts for ё being written without the diacritic, which might make rhymes between ё and о less obvious (e.g. ...был тонок and ребенок in Девушка пела... by Блок). This might be pretty hard to do though so you may have already considered it.
 - **One thing I learned** : I honestly didn't even know that Python distinguished between private and public things nor that you could declare types of parameter and output in functions.
+
+### John
+- *What worked:* First off... holy crap! This project is incredible! As 
+a poetry lover, it's amazing to see the integrity of the poetics shine 
+through here. You did a really great job in guiding the reader through 
+your project. Makes a lot of sense to me.
+- *What didn't:* I found it kind of challenging to work through your 
+repository. You're obviously working with a lot -- that being said, 
+clearer labels and groupings of your files would help orient both 
+yourself and the viewers to the desired information.
+- *What I learned:* It's hard to pick just one thing! In general, I 
+really appreciate how inventive you were with using the various Python 
+functions to maniuplate your data. It's very detail-oriented and 
+inspires me to do better myself!
