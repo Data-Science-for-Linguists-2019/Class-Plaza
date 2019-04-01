@@ -52,3 +52,15 @@ animated movies, so this corpus makes a sometimes frustrating project a
 little more fun. Also, you're right about the relative file paths. I 
 always just copy the path from my directory, and rarely bother to edit 
 it in my code. Thanks for the heads up! 
+
+### John
+- *One thing I liked:* Your project idea is so. COOL! Also, you are 
+approaching this monster of a task very methodically and logically, so 
+it's super easy to see what you're going for (especially with your 
+regexp). Keep up the great work!
+- *One thing that could be improved:* I know you're not finished yet, 
+but it would be interesting to see how the data is currently 
+conforming/non-conforming to your hypotheses. It's always nice to 
+recenter and make sure that you're not missing the bigger picture.
+- *One thing I learned:* .sub seems pretty interesting! I'm going to 
+need to check that out in the future.
