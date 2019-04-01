@@ -55,3 +55,9 @@ __**Thank you so much for your comments, Cassie! You're totally right, I made th
 * **One Thing I Learned:** Many data processing method. I am really impressed by the regular expressions skill you have. There's a lot that I can learn.
 
 __**Thank you so much for your comments, Tingwei! I definitely do need to expand on my analysis. I will make sure it's more fleshed out moving forward. - Elena**__
+
+
+### Katie's Visit
+- **What was done well:** You were very thorough with cleaning your data and making sure you catch everything! I'm definitely very impressed by how much of your time probably went towards the cleaning process!
+- **What can be improved:** Everything looks really good so far! I might just work on creating a main file that contains the essentials from everything so that the reader can get a better understanding of the big picture. This could be something that doesn't need to be added until the end, though.
+- **What I learned:** I learned a lot more about tagging words! This is an area that I'm not as familiar with so it was cool to see the different tagging methods you tried.
