@@ -11,18 +11,22 @@ Click [here](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interac
 - *One thing I learned*: The use of the .nunique() function was very cool and I'm definitely going to use that in the future for my own project. (also I was a _little_ surprised by how male-dominated Ted Talk responses were at the time this data was collected).
 Keep up the awesome work!!! I really look forward to seeing where this project travels.
 
-## Response
+### Response
 Thank you for the feedback! Yes there's definitely a big skew and I will definitely think about your suggestions!
 
 ### John's Second Entries:
 - *What waas done well*: As expected, everything looks great! No corner was left unturned. I really enjoyed the visualizations of your data as well -- they really aided in my understanding of
 what you were working with. Oh, and nice choice of license! I think the MIT license fits your project perfectly.
-- *What can be improved*: I could use more explanation of your data, perhaps indicating trends or possible conclusions. You have all the numbers and statistics ready, but it would be
-interesting to see what conclusions might be able to be drawn from this.
-- *One thing I learned*: Using > and < to sort your DFs (see Output 32). That makes a lot of sense when working with numerical data, and I'm definitely interested in seeing if I can apply this
-method to my project.
+- *What can be improved*: I could use more explanation of your data, perhaps indicating trends or possible conclusions. You have all the numbers and statistics ready, but it would be interesting to see what conclusions might be able to be drawn from this.
+- *One thing I learned*: Using > and < to sort your DFs (see Output 32). That makes a lot of sense when working with numerical data, and I'm definitely interested in seeing if I can apply this method to my project.
+
+### Response
+Thanks for your input! I agree I have a lot of output and numbers, and I'm working on drawing some conclusions!
 
 ### Eva's entries:
 - **What was done well**: The project is really well organized - it was easy to follow along with your jupyter notebook files after reading project plan and progress report. Comments are helpful and thoroughly explain the process. Data visualizations are helpful and easily understandable. I am really impressed with the amount of data you're working with, and the topic of your project is really interesting.
 - **Improvements and suggestions**: Since there's many different sources of data, I think it would be helpful for the final report to include an intro paragraph when you switch datasets. The only time I was confused by your jupyter notebooks was in main_analysis.ipnyb - there's not a ton of comments, so sometimes I got lost when you switched between datasets.
 - **What I learned**: Disappointed but not really surprised that Reddit is a male-dominated site. For the Fitocracy data, it was interesting that more women reply to men's posts and more men reply to women's posts. 
+
+### Response
+Thanks for your post! Yes, I have a lot of data and will definitely work on making some smoother transitions between the different types!
