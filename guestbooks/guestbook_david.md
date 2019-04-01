@@ -52,3 +52,8 @@ yourself and the viewers to the desired information.
 really appreciate how inventive you were with using the various Python 
 functions to maniuplate your data. It's very detail-oriented and 
 inspires me to do better myself!
+
+### Katie
+- **What was done well:** There's a lot of good commenting and explaining! This seems like a huge project, and a lot of the code is unfamiliar to me. That being said, you make sure that the reader understands the goal and the process!
+- **What can be improved:** It might be interesting to briefly mention how you think this same process would work on English words. Is Russian rhyme identification more difficult, about the same, etc.?
+- **What I learned:** How to parse XML! I haven't had to use files in this format yet, so it's nice to see how it's done.
