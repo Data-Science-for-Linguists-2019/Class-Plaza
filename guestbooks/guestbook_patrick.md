@@ -16,3 +16,15 @@ Patrick Stoyer
 - __What was done well:__ Good organization and pretty good explanations throughout your jupyter notebooks and in your project plan. Good job with the web scraping, you got a lot of data! There's a lot of different places to go with your data and I'm interested to see what else you discover through topic modeling and sentiment analysis especially.
 - __Improvements and suggestions:__ It's unclear where to start when looking through your project plan and progress report. It could be helpful to include links throughout your write-up documents to  different jupyter notebooks. You could also put a short explanation in your readme of what's in each folder, document, etc. Explanations (mostly just for the LDA/LSA) could have been more detailed.
 - __What I learned:__ It's a really good idea to lemmatize the text before topic modeling! I didn't even consider that I could do that. I'm going to try that in my own analysis now.
+
+### John (accidentally did the same two twice for to-do 1 and 2)
+- *What was good:* You walked us through everything really well (though 
+maybe you don't need to flash the whole text as much)! I loved 
+how you showed us how your code worked and everything in your overviews.
+- *What could be improved:* I would like some interpretations of your 
+data as you go along! I think you're touching on some great things, but 
+some things are still lacking in depth.
+- *What I learned:* Data scraping is really interesting. The code seems 
+to have worked well for you, and I'm interested in using selenium in the 
+future!
+

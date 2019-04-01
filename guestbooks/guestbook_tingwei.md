@@ -32,3 +32,12 @@ Thanks for the encouragement. I still have a lot of work to achieve my project g
 - __What was done well:__ Good explanations in your project plan and progress report! The data frames are well organized. The project topic is really cool and I'm excited to see your results.
 - __Improvements and suggestions:__ It would be helpful to include more background on the ELI data. For the pie chart in your jupyter notebook showing token counts, consider making a legend. The labels will be easier to read in a separate legend. It also might be preferable to use a histogram or a density plot instead. After building your spell checker, you could try comparing your results with other spell checkers.
 - __What I learned:__ Merging data frames! Definitely very useful.
+
+#### John
+- *What was good:* Your project is clean, easy to follow, and has a 
+clear goal.
+- *What could be improved:* I could use a little more explanation on why 
+you chose your license. Also, the ELI DF is a bit confusing still.
+- *What I learned:* .rename is a simple function to use, but I never 
+knew about it! I wish I had before...!
+
