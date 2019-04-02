@@ -38,6 +38,12 @@ xml file processing works.
 - **What I Learned:** There are chunkers in Python! It makes sense, since people have done a lot of parsing and annotating in the past. But I never thought to look. Very neat.
 
 ### Patrick's visit 4.2.2019
-- __What I like:__ The data seems to be really well processed and your code is well explained. 
-- __Areas of improvement:__ As other people have said, some additional info on Persian would be useful. 
+- __What I like:__ The data seems to be really well processed and your code is well explained.
+- __Areas of improvement:__ As other people have said, some additional info on Persian would be useful.
 _ __What I learned:__ POS tagging and chunking in Python. Also, processing data from XML to a more useable form.
+
+### Tingwei's entry
+2019.04.02
+- **What I Like:** Your project's goal is very clear. I like your idea and your work is easy to understand. I know it is not easy to combine all these modules together in one file, but I am really looking forward to the result you will achieve. Good job.
+- **What Can Be Improved:** More explanation about Persian will be helpful. Because I have no idea about Persian, if you can create some categories to tell Persian syntax, it can let your audience know more.
+- **What I Learned:** POS-tagging and chunking the text. I may employ these methods into my project to help me do more analysis. That's helpful.
