@@ -61,3 +61,8 @@ __**Thank you so much for your comments, Tingwei! I definitely do need to expand
 - **What was done well:** You were very thorough with cleaning your data and making sure you catch everything! I'm definitely very impressed by how much of your time probably went towards the cleaning process!
 - **What can be improved:** Everything looks really good so far! I might just work on creating a main file that contains the essentials from everything so that the reader can get a better understanding of the big picture. This could be something that doesn't need to be added until the end, though.
 - **What I learned:** I learned a lot more about tagging words! This is an area that I'm not as familiar with so it was cool to see the different tagging methods you tried.
+
+### Matt's Visit
+- __What I liked:__ Well detailed explanations at the start of every notebook. Also good demonstration of knowledge on your subject material 
+- __Area of improvement:__Some of you code comments feel like they can be moved to markdown cells. I believe this would give your notebook a cleaner look in between your existing markdown cells.
+- __What I learned:__ The existance of the spacy package in python, as well as a little on how to use it. 
