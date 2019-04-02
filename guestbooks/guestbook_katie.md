@@ -30,3 +30,18 @@ Thanks for your input! I agree I have a lot of output and numbers, and I'm worki
 
 #### Response
 Thanks for your post! Yes, I have a lot of data and will definitely work on making some smoother transitions between the different types!
+
+### Cassie's entries:
+- **What I Liked:** Your goals for this project and the steps you're 
+taking to meet these goals are mapped out really well and are easy to 
+follow. Also, the conclusions.md file is a great place to get a quick 
+summary of your findings without having to navigate through jupyter 
+notebooks.
+- **What Can Be Improved:** The motivations behind some of the things 
+you do in your data motifications could be made a little clearer. For 
+instance, why do you decide to replace null posts with an empty string 
+instead of getting rid of them? Are any of these included in your 50,000 
+post sample?
+- **What I Learned:** Ways to incorporate k-bands into a dataframe and 
+text analysis. I'm also analyzing gender dynamics for my project, so a 
+method like this will be really useful!
