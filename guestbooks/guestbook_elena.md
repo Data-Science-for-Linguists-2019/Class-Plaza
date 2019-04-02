@@ -64,5 +64,5 @@ __**Thank you so much for your comments, Tingwei! I definitely do need to expand
 
 ### Matt's Visit
 - __What I liked:__ Well detailed explanations at the start of every notebook. Also good demonstration of knowledge on your subject material 
-- __Area of improvement:__Some of you code comments feel like they can be moved to markdown cells. I believe this would give your notebook a cleaner look in between your existing markdown cells.
+- __Area of improvement:__ Some of you code comments feel like they can be moved to markdown cells. I believe this would give your notebook a cleaner look in between your existing markdown cells.
 - __What I learned:__ The existance of the spacy package in python, as well as a little on how to use it. 
