@@ -2,7 +2,7 @@
 Welcome to my project! For more information about the project, check out [my project plan](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/blob/master/project_plan.md). If you're interested in looking at some 2004 blogs, check out the [data_samples folder](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/tree/master/data_samples).
 
 Thanks for stopping by!
-
+## h
 ### Elena's entries
 #### 2019.03.07
  - *What was done well*: Your organization and writeup is really well-organized and easy to follow. The investigating you've done with the makeup of the corpus so far is pretty thorough, though I'm looking forward to see what else you'll add in the future! I think this is a really exciting project -- there's a lot that you can do with this, and you've set yourself up nicely here to go in a few different directions.
@@ -57,3 +57,8 @@ analysis)!
 * **One Area of Improvement:** For the Blogger gender by industry chart, maybe you can adjust the color to meet the previous charts. Ex: blue for male, orange for female. That would be easier to read.
 
 * **One Thing I Learned:** Many data analysis methods. There are a lot of plot function I can utilize in my project.
+
+### Matt's Visit:
+- __What I liked:__ I like the reactions to what shows up in the Topics from LDA. Diversity of graphs also gives a nice clean presentation.
+- __Area of improvement:__ Looking into doing a table of contents. The ease of navigation really helps with development, and could come in handy if you do any presentation with the notebooks. Only drawback is that it doesn't work in GitHub's preview (to my knowledge anyway). 
+- __What I learned:__ A little bit about how to use LDA in machine learning. Also a nice refresher on nltk's regular expression tokenizer.
