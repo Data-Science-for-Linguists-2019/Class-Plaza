@@ -64,3 +64,7 @@ conforming/non-conforming to your hypotheses. It's always nice to
 recenter and make sure that you're not missing the bigger picture.
 - *One thing I learned:* .sub seems pretty interesting! I'm going to 
 need to check that out in the future.
+
+#### Cassie's Response:
+Thanks for visiting John! And thanks for the advice! I do tend to get 
+lost in data clean-up...
