@@ -11,7 +11,7 @@ Hello There! Welcome to my project! Come on in and learn about the tragedy of Da
 - **One thing I learned:** I learned how to read in a huge data set in its compressed form, which is definitely very useful.
 
 #### Matt's Response
-   
+
 Thank you for the response. I agree that I should limit the subreddits, I don't have a solid list yet. Also, I will try to put an explanation of subreddit terms into the final product.
 
 ### John's post
@@ -42,26 +42,32 @@ Thanks for the second response, though I think you need to visit two further dow
 
 Thanks for the feedback. I agree that I probably should make the heatmaps bigger. The reason the first heatmap, the one for all the subreddits, was not increased, was because the confusion matrix was gigantic, and I couldn't figure out how to render it properly without taking up too much space.
 
-Also, thanks for the heads up on the markdown. My own markdown editor renders them as headers so I didn't catch it 
+Also, thanks for the heads up on the markdown. My own markdown editor renders them as headers so I didn't catch it
 
 ### Cassie's entry:
-- **What I Liked:** I love that you're including machine learning in this! 
-I can't wait to see how accurate you can get your classifiers to be! Also, 
-way to spend time in your data exploration code choosing 
-the 
-best way to store your data (which it looks like is SUPER important for your 
-project, since your data files are so big, and reloading it would be a 
-pain!). Finally, your jupyter notebooks have nice chunks of explanation and 
-analysis. Because of this, navigating your code is easy, the reasoning 
-behind your code is clear, and it was easy to interpret your results. 
-Overall, great job! 
-- **What Can Be Improved:** Your classifier in your preliminary machine 
-learning stage seemed to get messed up by the subreddit nba, maybe because 
-there were so many more entries for this category. When you split your data, 
-try 
-stratifying it, and see if you get better results! Also, right now your 
-progress reports have links to your code at the bottom of each report. 
-Embedding relevant links inside your summary next to the analysis it 
+- **What I Liked:** I love that you're including machine learning in this!
+I can't wait to see how accurate you can get your classifiers to be! Also,
+way to spend time in your data exploration code choosing
+the
+best way to store your data (which it looks like is SUPER important for your
+project, since your data files are so big, and reloading it would be a
+pain!). Finally, your jupyter notebooks have nice chunks of explanation and
+analysis. Because of this, navigating your code is easy, the reasoning
+behind your code is clear, and it was easy to interpret your results.
+Overall, great job!
+- **What Can Be Improved:** Your classifier in your preliminary machine
+learning stage seemed to get messed up by the subreddit nba, maybe because
+there were so many more entries for this category. When you split your data,
+try
+stratifying it, and see if you get better results! Also, right now your
+progress reports have links to your code at the bottom of each report.
+Embedding relevant links inside your summary next to the analysis it
 corresponds to would make navigating your repo a little easier.
-- **What I Learned:** I really like lzma.open! I'll have to remember this if 
+- **What I Learned:** I really like lzma.open! I'll have to remember this if
 I ever want to analyze large compressed files!
+
+### Elena's entry:
+2019.04.02
+- **What I Liked:** Your workflow and thought process is really easy to follow -- great use of markdown cells for explanation of what you're doing and your thought process. Also, the TOC in your current notebook is a great idea.
+- **What Can Be Improved:** If it's possible, it might be a good idea to have a visualization of the breakdown of different subreddits going on in your project. If you're still having trouble picking subreddits, maybe limit your range so they have a decently close gap -- you have a lower limit, but not an upper one. Or you can try stratifying, like Cassie suggested.
+- **What I Learned:** There's a normalize json function for pandas? That's really cool! That would have been useful for me a few weeks ago haha

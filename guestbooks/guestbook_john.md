@@ -36,3 +36,14 @@ xml file processing works.
 - **What I Like:** Your thought process and workflow is really comprehensive and easy to walk through and understand. You also clearly did a lot of work -- lots of trips to OH and looking into different parsers and chunkers. I know you haven't accomplished as much as you originally wanted to at this point, but it's clear that you put in a lot of work to get to this point! Good job so far.
 - **What Can Be Improved:** Like Eva and Cassie said -- a little bit more information on Persian and how it differs in syntax and your target structure would be helpful. As far as removing non-communicative acts from the data, have you considered throwing out sentences for which the Persian or English length is under a certain point? This will probably get rid of some actual speech in subtitles, but under a certain point, I don't think you'll be gleaning very much anyway based on your interest in similies. You could also pick certain idioms in either English and/or Persian to focus on (which will narrow down your search considerably). You could also tie in the structure of idioms in Persian (if there is a certain structure) and target chunks or text that has that specific structure. Not sure if any of this is helpful, but I think it might narrow down what you have to process and analyze.
 - **What I Learned:** There are chunkers in Python! It makes sense, since people have done a lot of parsing and annotating in the past. But I never thought to look. Very neat.
+
+### Patrick's visit 4.2.2019
+- __What I like:__ The data seems to be really well processed and your code is well explained.
+- __Areas of improvement:__ As other people have said, some additional info on Persian would be useful.
+_ __What I learned:__ POS tagging and chunking in Python. Also, processing data from XML to a more useable form.
+
+### Tingwei's entry
+2019.04.02
+- **What I Like:** Your project's goal is very clear. I like your idea and your work is easy to understand. I know it is not easy to combine all these modules together in one file, but I am really looking forward to the result you will achieve. Good job.
+- **What Can Be Improved:** More explanation about Persian will be helpful. Because I have no idea about Persian, if you can create some categories to tell Persian syntax, it can let your audience know more.
+- **What I Learned:** POS-tagging and chunking the text. I may employ these methods into my project to help me do more analysis. That's helpful.

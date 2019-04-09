@@ -62,3 +62,8 @@ analysis)!
 - __What I liked:__ I like the reactions to what shows up in the Topics from LDA. Diversity of graphs also gives a nice clean presentation.
 - __Area of improvement:__ Looking into doing a table of contents. The ease of navigation really helps with development, and could come in handy if you do any presentation with the notebooks. Only drawback is that it doesn't work in GitHub's preview (to my knowledge anyway). 
 - __What I learned:__ A little bit about how to use LDA in machine learning. Also a nice refresher on nltk's regular expression tokenizer.
+
+### Patrick's Visit:
+- __What I liked:__ I like all the visualizations you use. It really makes the jupyter notebook easy to follow and the data more easy it to understand.
+- __Area of improvement:__ I think you might want to consider removing stopwords from the data you use. There seems to be only function words like the, of, and, etc. in your most frequent words for all topics, and these would probably be excluded if you use stop words. 
+- __What I learned:__ Visualizing data and translating from other languages.
