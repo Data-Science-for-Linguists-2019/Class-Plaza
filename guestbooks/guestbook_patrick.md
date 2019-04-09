@@ -24,7 +24,18 @@ how you showed us how your code worked and everything in your overviews.
 - *What could be improved:* I would like some interpretations of your 
 data as you go along! I think you're touching on some great things, but 
 some things are still lacking in depth.
-- *What I learned:* Data scraping is really interesting. The code seems 
+- *What I learned:* Data scraping is really interesting. The code 
+seems 
 to have worked well for you, and I'm interested in using selenium in the 
 future!
 
+### Cassie's entry:
+- **What I liked:** Your code is well-organized and annotated with good 
+explanations of what you're doing. Also, your approach to data 
+acquisition was super thorough! Can't wait to see what info you get from 
+your analysis!
+- **What Can Be Improved:** Your project reports could use a few more 
+links to make your repo more navigable.
+- **What I Learned:** A heck of a lot about webscraping! You really use 
+advantage of the trees/hierarchies. I've only just touched the surface 
+of web scraping, so your code was really informative!

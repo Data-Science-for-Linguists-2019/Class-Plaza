@@ -41,3 +41,18 @@ you chose your license. Also, the ELI DF is a bit confusing still.
 - *What I learned:* .rename is a simple function to use, but I never 
 knew about it! I wish I had before...!
 
+#### Cassie
+- **What I Liked:** This is a very cool project! Understanding 
+and modifying a spell 
+checker is no easy feat! I can't wait to see what you come up with! 
+Also, your 
+project reports are very clear, and your ELI code has great dataframe 
+manipulation.
+- **What Can Be Improved:** I think your jupyter notebooks could use a 
+little more annotation, to help readers follow what you're doing with 
+your data. Also, 
+double-check your links in your project reports! Some of them don't 
+work.
+- **What I Learned:** Pie charts! I've been struggling with how to 
+display my data, and after seeing your code, pie charts look like a good 
+idea!
