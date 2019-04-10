@@ -66,3 +66,16 @@ __**Thank you so much for your comments, Tingwei! I definitely do need to expand
 - __What I liked:__ Well detailed explanations at the start of every notebook. Also good demonstration of knowledge on your subject material 
 - __Area of improvement:__ Some of you code comments feel like they can be moved to markdown cells. I believe this would give your notebook a cleaner look in between your existing markdown cells.
 - __What I learned:__ The existance of the spacy package in python, as well as a little on how to use it. 
+
+### John's notes:
+- *What I liked:* I really liked your analysis notebook. It was very 
+thorough and seemed to cover a lot -- the breakdown of the varying 
+languages and levels halfway through was a nice change of pace from 
+following the code, as well as being super informative. Also, wonderful 
+job with getting the articles!
+- *What could be improved:* I'm not entirely sure how you'd do it, but 
+it would be nice to see a leaner "get_articles" function. It works well 
+for your purposes now, but it might take a long time to run in certain 
+situations. 
+- *What I learned:* How to make clean regex. I _really_ need to do that 
+for my project...
