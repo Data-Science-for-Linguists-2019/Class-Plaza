@@ -67,3 +67,17 @@ analysis)!
 - __What I liked:__ I like all the visualizations you use. It really makes the jupyter notebook easy to follow and the data more easy it to understand.
 - __Area of improvement:__ I think you might want to consider removing stopwords from the data you use. There seems to be only function words like the, of, and, etc. in your most frequent words for all topics, and these would probably be excluded if you use stop words. 
 - __What I learned:__ Visualizing data and translating from other languages.
+
+### John's notes:
+- *What I liked:* I think a few people have touched upon the 
+visualization that you use and how it's a strength to your notebooks -- 
+I completely agree (the rainbow bar graph in your progress_report_part2 
+notebook is especially lovely)! You also explore every facet of your 
+data, so it's very easy to follow and see where you'll be going next.
+- *What could be improved:* I think maybe you could separate your 
+progress report notebooks into smaller notebooks. Also, I think a Table 
+of Contents or some other form of "summary" at the top of each one would 
+be great, since the notebooks can be relatively long to follow. Your 
+code and data analysis are great, though, so not much to improve there!
+- *What I learned:* The RegexpTokenizer seems pretty rad. That might 
+help me with the segmentation of my own data!
