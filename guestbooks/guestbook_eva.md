@@ -81,3 +81,8 @@ be great, since the notebooks can be relatively long to follow. Your
 code and data analysis are great, though, so not much to improve there!
 - *What I learned:* The RegexpTokenizer seems pretty rad. That might 
 help me with the segmentation of my own data!
+
+### Katie's Visit:
+- **What I liked:** Everything is so well organized! It was easy to determine what order I should look at things, and the notebooks are all very well documented.
+- **What can be improved?** I'm not really sure if this is worth it, but if you felt like it, it could be interesting to go through a bunch of the blogs and hand annotate for sentiment, then use VADER on it to gauge its accuracy. This wouldn't have to be anything crazy, but enough that you could get a good idea of how it does.
+- **What I learned:** I love the topic clustering portion! This is really cool to see what topics the machine comes up with.
