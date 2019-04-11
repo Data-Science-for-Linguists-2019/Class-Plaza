@@ -44,15 +44,18 @@ knew about it! I wish I had before...!
 #### Cassie
 - **What I Liked:** This is a very cool project! Understanding 
 and modifying a spell 
-checker is no easy feat! I can't wait to see what you come up with! 
-Also, your 
+checker is no easy feat! It's cool to see the limitations of Peter 
+Norvig's spellchecker. Also, your 
 project reports are very clear, and your ELI code has great dataframe 
-manipulation.
+manipulation. You give good reasons for why you restrict your analysis 
+in the way you do (like restrictions on token counts and zooming into 
+certain L1's).
 - **What Can Be Improved:** I think your jupyter notebooks could use a 
 little more annotation, to help readers follow what you're doing with 
-your data. Also, 
-double-check your links in your project reports! Some of them don't 
-work.
-- **What I Learned:** Pie charts! I've been struggling with how to 
+your data. (Though your annotations in your progress report 3 show a lot 
+of 
+improvement here!)
+- **What I Learned:** Pie charts (and other visualizations)! I've been 
+struggling with how to 
 display my data, and after seeing your code, pie charts look like a good 
 idea!
