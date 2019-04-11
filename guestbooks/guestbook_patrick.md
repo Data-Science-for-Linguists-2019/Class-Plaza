@@ -18,25 +18,33 @@ Patrick Stoyer
 - __What I learned:__ It's a really good idea to lemmatize the text before topic modeling! I didn't even consider that I could do that. I'm going to try that in my own analysis now.
 
 ### John (accidentally did the same two twice for to-do 1 and 2)
-- *What was good:* You walked us through everything really well (though 
-maybe you don't need to flash the whole text as much)! I loved 
+- *What was good:* You walked us through everything really well (though
+maybe you don't need to flash the whole text as much)! I loved
 how you showed us how your code worked and everything in your overviews.
-- *What could be improved:* I would like some interpretations of your 
-data as you go along! I think you're touching on some great things, but 
+- *What could be improved:* I would like some interpretations of your
+data as you go along! I think you're touching on some great things, but
 some things are still lacking in depth.
-- *What I learned:* Data scraping is really interesting. The code 
-seems 
-to have worked well for you, and I'm interested in using selenium in the 
+- *What I learned:* Data scraping is really interesting. The code
+seems
+to have worked well for you, and I'm interested in using selenium in the
 future!
 
 ### Cassie's entry:
-- **What I liked:** Your code is well-organized and annotated with good 
-explanations of what you're doing. Also, your approach to data 
-acquisition was super thorough! Can't wait to see what info you get from 
+- **What I liked:** Your code is well-organized and annotated with good
+explanations of what you're doing. Also, your approach to data
+acquisition was super thorough! Can't wait to see what info you get from
 your analysis!
-- **What Can Be Improved:** Your project reports could use a few more 
-links to make your repo more navigable, and some more description on 
+- **What Can Be Improved:** Your project reports could use a few more
+links to make your repo more navigable, and some more description on
 what you're analyzing (like perplexity and coherence).
-- **What I Learned:** A heck of a lot about webscraping! You really use 
-advantage of the trees/hierarchies. I've only just touched the surface 
+- **What I Learned:** A heck of a lot about webscraping! You really use
+advantage of the trees/hierarchies. I've only just touched the surface
 of web scraping, so your code was really informative!
+
+
+### Tingwei's entry:
+- **What I liked:** Your Jupyter notebook is really clear and easy to follow. The repository is well-designed. It looks like a professional project task.
+
+- **What Can Be Improved:** It will be better to add more instructions on how to read the results you provide.
+
+- **What I Learned:** I learned how to organize the project, and process multiple data together. This may be closer to real work situation.
