@@ -47,3 +47,8 @@ _ __What I learned:__ POS tagging and chunking in Python. Also, processing data 
 - **What I Like:** Your project's goal is very clear. I like your idea and your work is easy to understand. I know it is not easy to combine all these modules together in one file, but I am really looking forward to the result you will achieve. Good job.
 - **What Can Be Improved:** More explanation about Persian will be helpful. Because I have no idea about Persian, if you can create some categories to tell Persian syntax, it can let your audience know more.
 - **What I Learned:** POS-tagging and chunking the text. I may employ these methods into my project to help me do more analysis. That's helpful.
+
+### Katie's Visit
+- **What I liked:** Everything is very well organized. I also like the added Persian information file! I've noticed that's what a lot of people thought could be improved - and you did a good job explaining what we need to know coming into this.
+- **What can be improved:** As for your machine learning goal, I think it could be doable to predict if a sentence will be SOV or SVO. I'd imagine there are some definite trends that could be found!
+- **What I learned:** POS tagging in different languages!
