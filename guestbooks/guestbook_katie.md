@@ -72,3 +72,9 @@ Thanks for the post! Yes, I definitely need to continue to develop and put toget
 - __What I Liked:__ Using machine leaarning, and one of your sources being from reddit, what an odd coincidence. Also, decent use of markdown to explain thought process
 - __What Can Be Improved:__ Have you considered using additional features in your machine learning (e.x. sentence length) alongside the text? Also, I highly recommend pd.crosstab for confusion matricies, it keeps the row/column labels. 
 - __What I Learned:__ Getting prediction probabilities from a classifier/model. I'll have to remember that if I assemble a notebok for presentational purposes.
+
+### Patrick's Entry:
+
+- __What I liked:__ I like the organization of your project, and the fact that you separate your machine learning and main analysis ipynb, makes it more logical. Overall, you show your dataframes and use visualizations alot which makes it more clear what you're doing.
+- __What can be improved:__ I haven't taken statistics but some of your data seem like they could call for statistical analyses. For example some of the hedge frequencies for certain corpora seem fairly close (e.g. 0.05 vs 0.039). Maybe these aren't actually statistically different and don't contradict your hypothesis?
+- __What I learned:__ Gender can manifest itself in online written text in weird ways (like the fact that women tend to write longer posts for example).
