@@ -66,3 +66,9 @@ Thanks for the post! Also thanks for catching that link - I had switched its loc
 
 #### Response
 Thanks for the post! Yes, I definitely need to continue to develop and put together my conclusions.
+
+### Matt's Entry:
+
+- __What I Liked:__ Using machine leaarning, and one of your sources being from reddit, what an odd coincidence. Also, decent use of markdown to explain thought process
+- __What Can Be Improved:__ Have you considered using additional features in your machine learning (e.x. sentence length) alongside the text? Also, I highly recommend pd.crosstab for confusion matricies, it keeps the row/column labels. 
+- __What I Learned:__ Getting prediction probabilities from a classifier/model. I'll have to remember that if I assemble a notebok for presentational purposes.
