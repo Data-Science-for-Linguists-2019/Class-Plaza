@@ -79,3 +79,9 @@ I ever want to analyze large compressed files!
 - **What Can Be Improved:** I would like to see whether altering the categories - subreddits, the score will be going up or down. It seems like politics influence a lot in your model. That may be a one option.
 
 - **What I Learned:** A complete progress for machine learning practice. That's really helpful in designing ML project.
+
+### Patrick's entry:
+11.4.2019
+- **What I Liked:** Cool topic, nice visualizations, easy to follow notebook and overall well organized. It's nice that you tried both the cross validation and train/test split methods for your ML. 
+- **What Can be Improved:** It would be nice to see if there is any sort of correlation between post content and score? If you did try that it may be a good idea to limit the domain to just one sub to make the correlation clearer. Also your sample size seems fairly small, you may have gotten better results with more posts.
+- **What I Learned:** Lots of different ways to use ML.
