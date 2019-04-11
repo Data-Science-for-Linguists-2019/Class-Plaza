@@ -5,6 +5,8 @@ Hope you enjoy and that this brings you some warmth on these freezing days.
 
 Note: I had some problems with the encoding of my files, so I have been chunking it out for the past few days and will update my file over break when I have less noise going on.
 
+## h
+
 ### Eva's entries
 - __What was done well:__ Really great comments and organization - you really walk the reader through your write-up and thoroughly explain what you're doing in each step and why. Your project plan and progress reports are helpful and well-organized.
 - __Improvements and suggestions:__ It would be good to include some background on syntax/word order in Persian further down the line, maybe in your final presentation. I am interested in how this relates to the quality of subtitle translation - do some Persian sentences just mimic English syntax exactly, even if it makes no sense? Since you mention English idioms in your project plan, it might be worthwhile to add a column to your dataframe to indicate if the sentence is +/- idiom and compare between the groups. There might be an already existing list of English idioms you could use. I wish I had a suggestion for your encoding issues :(
@@ -52,3 +54,9 @@ _ __What I learned:__ POS tagging and chunking in Python. Also, processing data 
 - **What I liked:** Everything is very well organized. I also like the added Persian information file! I've noticed that's what a lot of people thought could be improved - and you did a good job explaining what we need to know coming into this.
 - **What can be improved:** As for your machine learning goal, I think it could be doable to predict if a sentence will be SOV or SVO. I'd imagine there are some definite trends that could be found!
 - **What I learned:** POS tagging in different languages!
+
+
+### Matt's Visit
+- __What I liked:__ Well organized markdown cells to explain the coding process as well as your interpretations. 
+- __What can be improved:__ More directory organization, the only sense of file organization in your repository are the numbers you put on your notebooks. I would move your notebooks to a folder, though pers_info and data_modification.txt could remain in the root directory. Also in 5_data_analysis, the code cell above ```In [20]``` was not ran (at least from what I see)
+- __What I learned:__ Chunking sentences with nltk.  
