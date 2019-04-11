@@ -35,7 +35,8 @@ explanations of what you're doing. Also, your approach to data
 acquisition was super thorough! Can't wait to see what info you get from 
 your analysis!
 - **What Can Be Improved:** Your project reports could use a few more 
-links to make your repo more navigable.
+links to make your repo more navigable, and some more description on 
+what you're analyzing (like perplexity and coherence).
 - **What I Learned:** A heck of a lot about webscraping! You really use 
 advantage of the trees/hierarchies. I've only just touched the surface 
 of web scraping, so your code was really informative!

@@ -71,3 +71,11 @@ I ever want to analyze large compressed files!
 - **What I Liked:** Your workflow and thought process is really easy to follow -- great use of markdown cells for explanation of what you're doing and your thought process. Also, the TOC in your current notebook is a great idea.
 - **What Can Be Improved:** If it's possible, it might be a good idea to have a visualization of the breakdown of different subreddits going on in your project. If you're still having trouble picking subreddits, maybe limit your range so they have a decently close gap -- you have a lower limit, but not an upper one. Or you can try stratifying, like Cassie suggested.
 - **What I Learned:** There's a normalize json function for pandas? That's really cool! That would have been useful for me a few weeks ago haha
+
+### Tingwei's entry:
+2019.04.11
+- **What I Liked:** Your goal is very clear, and the steps is kind to follow. The jupyter notebook is designed well to let audience enjoy in the journey, I would like to follow it to see what would happen in the end. And it is really inspiring that your score is going up. That's great.
+
+- **What Can Be Improved:** I would like to see whether altering the categories - subreddits, the score will be going up or down. It seems like politics influence a lot in your model. That may be a one option.
+
+- **What I Learned:** A complete progress for machine learning practice. That's really helpful in designing ML project.
