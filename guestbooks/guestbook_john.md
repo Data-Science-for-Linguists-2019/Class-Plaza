@@ -52,3 +52,9 @@ _ __What I learned:__ POS tagging and chunking in Python. Also, processing data 
 - **What I liked:** Everything is very well organized. I also like the added Persian information file! I've noticed that's what a lot of people thought could be improved - and you did a good job explaining what we need to know coming into this.
 - **What can be improved:** As for your machine learning goal, I think it could be doable to predict if a sentence will be SOV or SVO. I'd imagine there are some definite trends that could be found!
 - **What I learned:** POS tagging in different languages!
+
+
+### Matt's Visit
+- __What I liked:__ Well organized markdown cells to explain the coding process as well as your interpretations. 
+- __What can be improved:__ More directory organization, the only sense of file organization in your repository are the numbers you put on your notebooks. I would move your notebooks to a folder, though pers_info and data_modification.txt could remain in the root directory. Also in 5_data_analysis, the code cell above ```In [20]``` was not ran (at least from what I see)
+- __What I learned:__ Chunking sentences with nltk.  
