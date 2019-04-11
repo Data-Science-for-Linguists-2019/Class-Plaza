@@ -46,14 +46,23 @@ post sample?
 text analysis. I'm also analyzing gender dynamics for my project, so a
 method like this will be really useful!
 
+#### Response
+Thanks for the post! That's a good question - I'll have to reexamine the null posts are see about that.
+
 ### Elena's entries:
 2019.04.02
 - **What I Liked:** Your exploratory files are pretty well organized! I really like how you have a separate conclusions markdown.
 - **What Can Be Improved:** The link to your main analysis in the second progress report 404s. It looks like you changed the location of the file but didn't update the link. You may also want to link to your analysis notebook at the top or if you have any graphs that you find particularly interesting, save them in the notebook and see if you can upload or embed them? Also -- are you going to run any stats on your results?
 - **What I Learned:** The analysis of gender differences in responses various genders across different online platforms is interesting! Like, on Reddit, everyone has longer responses to female posters than male ones, but on Fitocracy, both groups have longer responses to same-group posters than the opposite.
 
+#### Response
+Thanks for the post! Also thanks for catching that link - I had switched its location and forgot to update the progress report. Definitely going to work more on the graphs and making them more accessible.
+
 ### Tingwei's entries:
 2019.04.02
 - **What I Liked:** Your analysis is really great, and the data set are sufficient. There are a lot of different resources that you have utilized. It seems that the results will be quite substantial.
 - **What Can Be Improved:** The analysis looks nice and neat. But I am looking forward to see some conclusion from these statistics. That may be helpful for me to understand your project.
 - **What I Learned:** The text analysis is great and clear. I may employ some methods to help me quickly get the result with charts, ex: post_length with gender.
+
+#### Response
+Thanks for the post! Yes, I definitely need to continue to develop and put together my conclusions.
