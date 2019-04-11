@@ -48,3 +48,9 @@ of web scraping, so your code was really informative!
 - **What Can Be Improved:** It will be better to add more instructions on how to read the results you provide.
 
 - **What I Learned:** I learned how to organize the project, and process multiple data together. This may be closer to real work situation.
+
+### Elena's entry:
+2019.04.11
+- *What I liked:* You pulled in a lot of data to work with! That's awesome, especially considering you're modeling for your project.
+- *What Can Be Improved:* I was a little confused about the difference between coherence and perplexity score in your last jupyter notebook file. Maybe add a little more information about that?
+- *What I Learned:* How to use gensim, and how to effectively webscrape to get a lot of data.
