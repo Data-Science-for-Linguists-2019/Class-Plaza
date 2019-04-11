@@ -2,7 +2,7 @@
 Welcome to my project! For more information about the project, check out [my project plan](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/blob/master/project_plan.md). If you're interested in looking at some 2004 blogs, check out the [data_samples folder](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis/tree/master/data_samples).
 
 Thanks for stopping by!
-## h
+
 ### Elena's entries
 #### 2019.03.07
  - *What was done well*: Your organization and writeup is really well-organized and easy to follow. The investigating you've done with the makeup of the corpus so far is pretty thorough, though I'm looking forward to see what else you'll add in the future! I think this is a really exciting project -- there's a lot that you can do with this, and you've set yourself up nicely here to go in a few different directions.
@@ -60,26 +60,26 @@ analysis)!
 
 ### Matt's Visit:
 - __What I liked:__ I like the reactions to what shows up in the Topics from LDA. Diversity of graphs also gives a nice clean presentation.
-- __Area of improvement:__ Looking into doing a table of contents. The ease of navigation really helps with development, and could come in handy if you do any presentation with the notebooks. Only drawback is that it doesn't work in GitHub's preview (to my knowledge anyway). 
+- __Area of improvement:__ Looking into doing a table of contents. The ease of navigation really helps with development, and could come in handy if you do any presentation with the notebooks. Only drawback is that it doesn't work in GitHub's preview (to my knowledge anyway).
 - __What I learned:__ A little bit about how to use LDA in machine learning. Also a nice refresher on nltk's regular expression tokenizer.
 
 ### Patrick's Visit:
 - __What I liked:__ I like all the visualizations you use. It really makes the jupyter notebook easy to follow and the data more easy it to understand.
-- __Area of improvement:__ I think you might want to consider removing stopwords from the data you use. There seems to be only function words like the, of, and, etc. in your most frequent words for all topics, and these would probably be excluded if you use stop words. 
+- __Area of improvement:__ I think you might want to consider removing stopwords from the data you use. There seems to be only function words like the, of, and, etc. in your most frequent words for all topics, and these would probably be excluded if you use stop words.
 - __What I learned:__ Visualizing data and translating from other languages.
 
 ### John's notes:
-- *What I liked:* I think a few people have touched upon the 
-visualization that you use and how it's a strength to your notebooks -- 
-I completely agree (the rainbow bar graph in your progress_report_part2 
-notebook is especially lovely)! You also explore every facet of your 
+- *What I liked:* I think a few people have touched upon the
+visualization that you use and how it's a strength to your notebooks --
+I completely agree (the rainbow bar graph in your progress_report_part2
+notebook is especially lovely)! You also explore every facet of your
 data, so it's very easy to follow and see where you'll be going next.
-- *What could be improved:* I think maybe you could separate your 
-progress report notebooks into smaller notebooks. Also, I think a Table 
-of Contents or some other form of "summary" at the top of each one would 
-be great, since the notebooks can be relatively long to follow. Your 
+- *What could be improved:* I think maybe you could separate your
+progress report notebooks into smaller notebooks. Also, I think a Table
+of Contents or some other form of "summary" at the top of each one would
+be great, since the notebooks can be relatively long to follow. Your
 code and data analysis are great, though, so not much to improve there!
-- *What I learned:* The RegexpTokenizer seems pretty rad. That might 
+- *What I learned:* The RegexpTokenizer seems pretty rad. That might
 help me with the segmentation of my own data!
 
 ### Katie's Visit:
