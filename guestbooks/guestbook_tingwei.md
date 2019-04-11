@@ -34,28 +34,34 @@ Thanks for the encouragement. I still have a lot of work to achieve my project g
 - __What I learned:__ Merging data frames! Definitely very useful.
 
 #### John
-- *What was good:* Your project is clean, easy to follow, and has a 
+- *What was good:* Your project is clean, easy to follow, and has a
 clear goal.
-- *What could be improved:* I could use a little more explanation on why 
+- *What could be improved:* I could use a little more explanation on why
 you chose your license. Also, the ELI DF is a bit confusing still.
-- *What I learned:* .rename is a simple function to use, but I never 
+- *What I learned:* .rename is a simple function to use, but I never
 knew about it! I wish I had before...!
 
 #### Cassie
-- **What I Liked:** This is a very cool project! Understanding 
-and modifying a spell 
-checker is no easy feat! It's cool to see the limitations of Peter 
-Norvig's spellchecker. Also, your 
-project reports are very clear, and your ELI code has great dataframe 
-manipulation. You give good reasons for why you restrict your analysis 
-in the way you do (like restrictions on token counts and zooming into 
+- **What I Liked:** This is a very cool project! Understanding
+and modifying a spell
+checker is no easy feat! It's cool to see the limitations of Peter
+Norvig's spellchecker. Also, your
+project reports are very clear, and your ELI code has great dataframe
+manipulation. You give good reasons for why you restrict your analysis
+in the way you do (like restrictions on token counts and zooming into
 certain L1's).
-- **What Can Be Improved:** I think your jupyter notebooks could use a 
-little more annotation, to help readers follow what you're doing with 
-your data. (Though your annotations in your progress report 3 show a lot 
-of 
+- **What Can Be Improved:** I think your jupyter notebooks could use a
+little more annotation, to help readers follow what you're doing with
+your data. (Though your annotations in your progress report 3 show a lot
+of
 improvement here!)
-- **What I Learned:** Pie charts (and other visualizations)! I've been 
-struggling with how to 
-display my data, and after seeing your code, pie charts look like a good 
+- **What I Learned:** Pie charts (and other visualizations)! I've been
+struggling with how to
+display my data, and after seeing your code, pie charts look like a good
 idea!
+
+#### Elena's visit
+2019.04.11
+- *What I liked:* You're using the ELI data too! Haha that's awesome. I think your entire project idea is really awesome. I could definitely use a spellchecker for some of my Arabic L1 data! I also like that you're investigating several different avenues for your analysis, including gender.
+- *What Can Be Improved:* Consider comparing TTR and a different measure of lexical complexity. I talked to Alan, and went with Guiraud's R, which better controls for differences in text length. You divide types by the square root of total tokens.
+- *What I Learned:* How to set up a pie chart. I probably should have chosen that for some of my visualization. Oops!
