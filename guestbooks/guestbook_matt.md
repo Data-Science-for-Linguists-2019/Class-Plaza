@@ -78,4 +78,4 @@ I ever want to analyze large compressed files!
 
 - **What Can Be Improved:** I would like to see whether altering the categories - subreddits, the score will be going up or down. It seems like politics influence a lot in your model. That may be a one option.
 
-- **What I Learned:** A complete progress for machine learning practice. That's really helpful in designing ML project. 
+- **What I Learned:** A complete progress for machine learning practice. That's really helpful in designing ML project.
