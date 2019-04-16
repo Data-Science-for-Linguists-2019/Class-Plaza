@@ -37,6 +37,10 @@ xml file processing works.
 - **What Can Be Improved:** Like Eva and Cassie said -- a little bit more information on Persian and how it differs in syntax and your target structure would be helpful. As far as removing non-communicative acts from the data, have you considered throwing out sentences for which the Persian or English length is under a certain point? This will probably get rid of some actual speech in subtitles, but under a certain point, I don't think you'll be gleaning very much anyway based on your interest in similies. You could also pick certain idioms in either English and/or Persian to focus on (which will narrow down your search considerably). You could also tie in the structure of idioms in Persian (if there is a certain structure) and target chunks or text that has that specific structure. Not sure if any of this is helpful, but I think it might narrow down what you have to process and analyze.
 - **What I Learned:** There are chunkers in Python! It makes sense, since people have done a lot of parsing and annotating in the past. But I never thought to look. Very neat.
 
+#### Thank's again!
+I've still got a lot to work on and appreciate your feedback! I'll make 
+sure to get that file about Persian to y'all.
+
 ### Patrick's visit 4.2.2019
 - __What I like:__ The data seems to be really well processed and your code is well explained.
 - __Areas of improvement:__ As other people have said, some additional info on Persian would be useful.
@@ -48,6 +52,9 @@ _ __What I learned:__ POS tagging and chunking in Python. Also, processing data 
 - **What Can Be Improved:** More explanation about Persian will be helpful. Because I have no idea about Persian, if you can create some categories to tell Persian syntax, it can let your audience know more.
 - **What I Learned:** POS-tagging and chunking the text. I may employ these methods into my project to help me do more analysis. That's helpful.
 
+#### Another round of thanks
+Thank you all! Ack -- I forgot to add the Persian file!
+
 ### Katie's Visit
 - **What I liked:** Everything is very well organized. I also like the added Persian information file! I've noticed that's what a lot of people thought could be improved - and you did a good job explaining what we need to know coming into this.
 - **What can be improved:** As for your machine learning goal, I think it could be doable to predict if a sentence will be SOV or SVO. I'd imagine there are some definite trends that could be found!
@@ -58,3 +65,7 @@ _ __What I learned:__ POS tagging and chunking in Python. Also, processing data 
 - __What I liked:__ Well organized markdown cells to explain the coding process as well as your interpretations. 
 - __What can be improved:__ More directory organization, the only sense of file organization in your repository are the numbers you put on your notebooks. I would move your notebooks to a folder, though pers_info and data_modification.txt could remain in the root directory. Also in 5_data_analysis, the code cell above ```In [20]``` was not ran (at least from what I see)
 - __What I learned:__ Chunking sentences with nltk.  
+
+#### Final thanks:
+Well, thank you everyone for your comments! Matt, I will most definitely 
+organize my files.
